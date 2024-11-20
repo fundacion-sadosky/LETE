@@ -1,0 +1,47 @@
+version: "3.1"
+
+intents:
+  - saludo
+  - presentacion_madre
+  - actividades_madre
+  - anticipacion_madre
+  - despedida
+
+actions:
+  - action_saludo
+
+responses:
+
+  utter_no_entendi:
+  - text: "No logré comprenderte"
+
+  utter_saludo:
+  - text: "¡Hola! ¿Cómo puedo ayudarte hoy?"
+  - text: "Hola, ¿en qué puedo asistirte?"
+  - text: "Buenos días, ¿en qué puedo colaborar contigo?"
+
+  utter_presentacion_madre:
+  - text: "Soy la mamá de Juan. Estoy aquí para asegurarme de que pasemos un buen rato en la plaza."
+  - text: "Me llamo Ana, y soy la mamá de Juan. Mi objetivo es que tengamos un día divertido en la plaza."
+  - text: "Puedes llamarme Ana, soy la mamá de Juan. Estoy aquí para cuidar de él y asegurarnos de que nos divirtamos juntos."
+
+  utter_actividades_madre:
+  - text: "Hay muchas cosas divertidas que podemos hacer aquí. ¿Qué tipo de actividad te gustaría hacer?"
+  - text: "Tenemos varias opciones para pasarlo bien. ¿Tienes alguna preferencia en cuanto a lo que quieres hacer?"
+  - text: "Claro, en la plaza hay muchas actividades geniales. ¿Hay algo específico que te gustaría hacer?"
+  
+  utter_anticipacion_madre:
+  - text: "Sí, pronto podremos subirnos a la calesita. Solo debemos esperar un poco más."
+  - text: "¡Claro! La calesita abrirá pronto, y Juan podrá disfrutarla."
+  - text: "Estamos aquí temprano, así que en poco tiempo podrás subirte a la calesita. ¡Será divertido!"
+
+  utter_despedida:
+  - text: "¡Hasta luego! Si necesitas algo más, no dudes en volver."
+  - text: "Adiós, que tengas un día maravilloso."
+  - text: "Nos vemos. Siempre estoy aquí para ayudarte. ¡Cuídate!"
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

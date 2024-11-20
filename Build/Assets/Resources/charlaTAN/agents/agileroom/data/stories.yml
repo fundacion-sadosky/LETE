@@ -1,0 +1,10 @@
+version: "3.1"
+
+stories:
+
+- story: creacion_building
+  steps:
+    - intent: crear_building
+    - action: get_tracker
+    - intent: cambiar_material
+    - action: get_tracker

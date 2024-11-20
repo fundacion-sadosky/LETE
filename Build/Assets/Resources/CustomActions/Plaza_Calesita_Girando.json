@@ -1,0 +1,6096 @@
+[
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Plaza",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 36.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza creando piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "pasto",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza creando piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "plaza_calesita",
+          "nombreObjeto": "calesita",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 14.7,
+          "parZ": 14.7,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "banco",
+          "nombreObjeto": "Banco1",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 6.0,
+          "parZ": 6.0,
+          "rotacion": 180.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "farol",
+          "nombreObjeto": "Farol1",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 9.0,
+          "parZ": 6.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "arbol",
+          "nombreObjeto": "Arbol1",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 6.0,
+          "parZ": 12.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "banco",
+          "nombreObjeto": "Banco2",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 6.0,
+          "parZ": 18.0,
+          "rotacion": 180.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "farol",
+          "nombreObjeto": "Farol2",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 9.0,
+          "parZ": 18.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "arbol",
+          "nombreObjeto": "Arbol2",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 6.0,
+          "parZ": 24.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "banco",
+          "nombreObjeto": "Banco3",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 6.0,
+          "parZ": 30.0,
+          "rotacion": 180.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "farol",
+          "nombreObjeto": "Farol3",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 9.0,
+          "parZ": 30.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "banco",
+          "nombreObjeto": "Banco4",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 33.0,
+          "parZ": 6.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "farol",
+          "nombreObjeto": "Farol4",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 30.0,
+          "parZ": 6.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "arbol",
+          "nombreObjeto": "Arbol3",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 30.0,
+          "parZ": 12.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "banco",
+          "nombreObjeto": "Banco5",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 33.0,
+          "parZ": 18.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "farol",
+          "nombreObjeto": "Farol5",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 30.0,
+          "parZ": 18.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "arbol",
+          "nombreObjeto": "Arbol4",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 30.0,
+          "parZ": 24.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "banco",
+          "nombreObjeto": "Banco6",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 33.0,
+          "parZ": 30.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "farol",
+          "nombreObjeto": "Farol6",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 30.0,
+          "parZ": 30.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "tobogan",
+          "nombreObjeto": "Tobogan",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 18.0,
+          "parZ": 30.0,
+          "rotacion": 270.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Entrada1",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 3.0,
+          "parZ": 3.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Entrada2",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 3.0,
+          "parZ": 3.6,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Entrada3",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 4.8,
+          "parZ": 3.6,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Arena1",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 12.0,
+          "parZ": 3.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Arena2",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 12.0,
+          "parZ": 4.2,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Arena3",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 13.8,
+          "parZ": 3.6,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "cajaArena",
+          "nombreObjeto": "CajaArena",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 15.0,
+          "parZ": 6.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Tbgn2",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 21.0,
+          "parZ": 27.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Cale1",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 11.4,
+          "parZ": 12.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Cale2",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 12.0,
+          "parZ": 12.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Cale3",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 11.4,
+          "parZ": 10.2,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Tobogan1",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 15.6,
+          "parZ": 27.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Tobogan2",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 16.2,
+          "parZ": 27.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearObjeto",
+          "tipoObjeto": "waypoint",
+          "nombreObjeto": "Tobogan3",
+          "room": "Plaza",
+          "piso": 0,
+          "pared": null,
+          "parX": 20.4,
+          "parZ": 27.0,
+          "rotacion": 0.0,
+          "escalaX": 1.0,
+          "escalaY": 1.0,
+          "escalaZ": 1.0
+        },
+        "description": "Acción Dynamic Rooms"
+      }
+    ],
+    "description": "Plaza creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Edificio1",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 36.0,
+          "rotacion": 0.0,
+          "escalaX": 46.0,
+          "escalaY": 0.0,
+          "escalaZ": 46.0
+        },
+        "description": "Edificio1"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio1 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio1 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio1 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio1",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio1",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio1",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio1",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio1 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Edificio2",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 36.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 46.0
+        },
+        "description": "Edificio2"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio2 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio2 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio2 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio2",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio2",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio2",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio2",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio2 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Edificio3",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 36.0,
+          "rotacion": 0.0,
+          "escalaX": -46.0,
+          "escalaY": 0.0,
+          "escalaZ": 46.0
+        },
+        "description": "Edificio3"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio3 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio3 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio3 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio3",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio3",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio3",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio3",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio3 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Edificio4",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 36.0,
+          "rotacion": 0.0,
+          "escalaX": -46.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio4"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio4 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio4 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio4 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio4",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio4",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio4",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio4",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio4 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Edificio5",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 36.0,
+          "rotacion": 0.0,
+          "escalaX": 46.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio5"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio5 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio5 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio5 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio5",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio5",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio5",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio5",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio5 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Edificio6",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 36.0,
+          "rotacion": 0.0,
+          "escalaX": 46.0,
+          "escalaY": 0.0,
+          "escalaZ": -46.0
+        },
+        "description": "Edificio6"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio6 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio6 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio6 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio6",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio6",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio6",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio6",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio6 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Edificio7",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 36.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": -46.0
+        },
+        "description": "Edificio7"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio7 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio7 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio7 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 2,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 2,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 2,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio7",
+          "piso": 2,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio7",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio7",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio7",
+          "piso": 2,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio7 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Edificio8",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 36.0,
+          "rotacion": 0.0,
+          "escalaX": -46.0,
+          "escalaY": 3.0,
+          "escalaZ": -46.0
+        },
+        "description": "Edificio8"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio8 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio8 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 1,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 1,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 1,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 1,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 0,
+          "pared": "Sur",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 0,
+          "pared": "Sur",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 0,
+          "pared": "Norte",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 0,
+          "pared": "Norte",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 0,
+          "pared": "Este",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 0,
+          "pared": "Este",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 0,
+          "pared": "Oeste",
+          "parX": 4.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearVentana",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": null,
+          "room": "Edificio8",
+          "piso": 0,
+          "pared": "Oeste",
+          "parX": 24.0,
+          "parZ": 0.5,
+          "rotacion": 0.0,
+          "escalaX": 8.0,
+          "escalaY": 2.0,
+          "escalaZ": 1.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio8",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio8",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio8 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Edificio81",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 28.0,
+          "rotacion": 0.0,
+          "escalaX": -46.0,
+          "escalaY": 0.0,
+          "escalaZ": -46.0
+        },
+        "description": "Edificio81"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio81",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio81 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio81",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio81 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Edificio82",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 27.5,
+          "parZ": 36.0,
+          "rotacion": 0.0,
+          "escalaX": -46.0,
+          "escalaY": 0.0,
+          "escalaZ": -46.0
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Edificio82",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "pared externa",
+          "nombreObjeto": "BloquesConcreto",
+          "room": "Edificio82",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Calle1",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 5.0,
+          "parZ": 128.0,
+          "rotacion": 0.0,
+          "escalaX": -7.5,
+          "escalaY": -0.1,
+          "escalaZ": -46.0
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Calle1",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Asfalto",
+          "room": "Calle1",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Calle2",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 128.0,
+          "parZ": 5.0,
+          "rotacion": 0.0,
+          "escalaX": -46.0,
+          "escalaY": -0.1,
+          "escalaZ": -7.5
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Calle2",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Asfalto",
+          "room": "Calle2",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Calle3",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 128.0,
+          "parZ": 5.0,
+          "rotacion": 0.0,
+          "escalaX": -46.0,
+          "escalaY": -0.1,
+          "escalaZ": 38.5
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Calle3",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Asfalto",
+          "room": "Calle3",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Calle4",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 5.0,
+          "parZ": 128.0,
+          "rotacion": 0.0,
+          "escalaX": 38.5,
+          "escalaY": -0.1,
+          "escalaZ": -46.0
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Calle4",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Asfalto",
+          "room": "Calle4",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda1",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 38.5,
+          "parZ": 38.5,
+          "rotacion": 0.0,
+          "escalaX": -46.0,
+          "escalaY": -3.0,
+          "escalaZ": -46.0
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda1",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda1",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda1",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda2",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 41.0,
+          "parZ": 38.5,
+          "rotacion": 0.0,
+          "escalaX": -2.5,
+          "escalaY": -3.0,
+          "escalaZ": -46.0
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda2",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda2",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda2",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda3",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 38.5,
+          "parZ": 38.5,
+          "rotacion": 0.0,
+          "escalaX": 43.5,
+          "escalaY": -3.0,
+          "escalaZ": -46.0
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda3",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda3",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda3",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda4",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 38.5,
+          "parZ": 38.5,
+          "rotacion": 0.0,
+          "escalaX": -46.0,
+          "escalaY": -3.0,
+          "escalaZ": 43.5
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda4",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda4",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda4",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda5",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 41.0,
+          "parZ": 38.5,
+          "rotacion": 0.0,
+          "escalaX": -2.5,
+          "escalaY": -3.0,
+          "escalaZ": 43.5
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda5",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda5",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda5",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda6",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 38.5,
+          "parZ": 38.5,
+          "rotacion": 0.0,
+          "escalaX": 43.5,
+          "escalaY": -3.0,
+          "escalaZ": 43.5
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda6",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda6",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda6",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda8",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 38.5,
+          "parZ": 41.0,
+          "rotacion": 0.0,
+          "escalaX": -46.0,
+          "escalaY": -3.0,
+          "escalaZ": -2.5
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda8",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda8",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda8",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda9",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 38.5,
+          "parZ": 41.0,
+          "rotacion": 0.0,
+          "escalaX": 43.5,
+          "escalaY": -3.0,
+          "escalaZ": -2.5
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda9",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda9",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda9",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda10",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 2.5,
+          "parZ": 41.0,
+          "rotacion": 0.0,
+          "escalaX": -2.5,
+          "escalaY": -3.0,
+          "escalaZ": -2.5
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda10",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda10",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda10",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda11",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 2.5,
+          "parZ": 41.0,
+          "rotacion": 0.0,
+          "escalaX": 36.0,
+          "escalaY": -3.0,
+          "escalaZ": -2.5
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda11",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda11",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda11",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda12",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 2.5,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": -3.0,
+          "escalaZ": -2.5
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda12",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda12",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda12",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_Secuencial",
+    "data": [
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearBuilding",
+          "tipoObjeto": "BuildingConstArea",
+          "nombreObjeto": "Vereda13",
+          "room": null,
+          "piso": 0,
+          "pared": null,
+          "parX": 36.0,
+          "parZ": 2.5,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": -3.0,
+          "escalaZ": 36.0
+        },
+        "description": "Edificio82"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomVacio",
+          "nombreObjeto": null,
+          "room": "Vereda13",
+          "piso": 0,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CrearRoom",
+          "tipoObjeto": "RoomAbierto",
+          "nombreObjeto": null,
+          "room": "Vereda13",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Edificio82 piso 0"
+      },
+      {
+        "key": "Accion_DinamicRoom",
+        "data": {
+          "accion": "CambiarMaterial",
+          "tipoObjeto": "piso",
+          "nombreObjeto": "Concreto",
+          "room": "Vereda13",
+          "piso": 1,
+          "pared": null,
+          "parX": 0.0,
+          "parZ": 0.0,
+          "rotacion": 0.0,
+          "escalaX": 0.0,
+          "escalaY": 0.0,
+          "escalaZ": 0.0
+        },
+        "description": "Plaza piso 0 cambiar a pasto"
+      }
+    ],
+    "description": "Edificio82 creacion"
+  },
+  {
+    "key": "Accion_DinamicRoom",
+    "data": {
+      "accion": "UpdateNavMesh",
+      "tipoObjeto": null,
+      "nombreObjeto": null,
+      "room": null,
+      "piso": 0,
+      "pared": null,
+      "parX": 0.0,
+      "parZ": 0.0,
+      "rotacion": 0.0,
+      "escalaX": 0.0,
+      "escalaY": 0.0,
+      "escalaZ": 0.0
+    },
+    "description": "Edificio82"
+  },
+  {
+    "key": "Accion_SpawnAvatar",
+    "data": {
+      "avatar": "Juan",
+      "genero": "male",
+      "posicion": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "rotacion": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "escala": {
+        "x": 0.75,
+        "y": 0.75,
+        "z": 0.75,
+        "normalized": {
+          "x": 0.5773503,
+          "y": 0.5773503,
+          "z": 0.5773503,
+          "normalized": {
+            "x": 0.577350259,
+            "y": 0.577350259,
+            "z": 0.577350259,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.00000012,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 1.299038,
+        "sqrMagnitude": 1.6875
+      },
+      "agilebot": null
+    },
+    "description": "Acción Spawn Avatar"
+  },
+  {
+    "key": "Accion_SpawnAvatar",
+    "data": {
+      "avatar": "Madre",
+      "genero": "woman",
+      "posicion": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "rotacion": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "escala": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "agilebot": "madre"
+    },
+    "description": "Acción Spawn Avatar"
+  },
+  {
+    "key": "Accion_SpawnAvatar",
+    "data": {
+      "avatar": "Camarografo",
+      "genero": "man",
+      "posicion": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "rotacion": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "escala": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "magnitude": 1.0,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "agilebot": null
+    },
+    "description": "Acción Spawn Avatar"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Posicionar",
+        "data": {
+          "avatar": "Camarografo",
+          "accion": "MoverYRotar",
+          "ubicacionMover": "Entrada3",
+          "ubicacionRotar": "Entrada1"
+        },
+        "description": "Acción Posicionar"
+      },
+      {
+        "key": "Accion_Posicionar",
+        "data": {
+          "avatar": "Juan",
+          "accion": "MoverYRotar",
+          "ubicacionMover": "Entrada1",
+          "ubicacionRotar": "Entrada3"
+        },
+        "description": "Acción Posicionar"
+      },
+      {
+        "key": "Accion_Posicionar",
+        "data": {
+          "avatar": "Madre",
+          "accion": "MoverYRotar",
+          "ubicacionMover": "Entrada2",
+          "ubicacionRotar": "Entrada3"
+        },
+        "description": "Acción Posicionar"
+      }
+    ],
+    "description": "Juan va caminando con su mama mujer joven por uno de los caminos de la plaza"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Juan",
+          "condicion": "Accion_MoverAvatar",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_MoverAvatar",
+        "data": {
+          "avatar": "Camarografo",
+          "ubicacion": "Arena3",
+          "velocidad": 2.0,
+          "distancia": 1.0,
+          "modo": 0
+        },
+        "description": "Acción Mover Avatar"
+      },
+      {
+        "key": "Accion_MoverAvatar",
+        "data": {
+          "avatar": "Juan",
+          "ubicacion": "Arena1",
+          "velocidad": 2.0,
+          "distancia": 1.0,
+          "modo": 0
+        },
+        "description": "Acción Mover Avatar"
+      },
+      {
+        "key": "Accion_MoverAvatar",
+        "data": {
+          "avatar": "Madre",
+          "ubicacion": "Arena2",
+          "velocidad": 2.0,
+          "distancia": 1.0,
+          "modo": 0
+        },
+        "description": "Acción Mover Avatar"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Juan",
+          "condicion": "Accion_Secuencial",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_MoverAvatar",
+        "data": {
+          "avatar": "Camarografo",
+          "ubicacion": "Cale3",
+          "velocidad": 2.0,
+          "distancia": 1.0,
+          "modo": 0
+        },
+        "description": "Acción Mover Avatar"
+      },
+      {
+        "key": "Accion_MoverAvatar",
+        "data": {
+          "avatar": "Juan",
+          "ubicacion": "Cale1",
+          "velocidad": 3.0,
+          "distancia": 1.0,
+          "modo": 0
+        },
+        "description": "Acción Mover Avatar"
+      },
+      {
+        "key": "Accion_Secuencial",
+        "data": [
+          {
+            "key": "Accion_Hablar",
+            "data": {
+              "avatar": "Madre",
+              "texto": "Juan, a donde vas!",
+              "genero": "Mujer",
+              "modo": 0
+            },
+            "description": "Acción Hablar"
+          },
+          {
+            "key": "Accion_MoverAvatar",
+            "data": {
+              "avatar": "Madre",
+              "ubicacion": "Cale2",
+              "velocidad": 3.0,
+              "distancia": 1.0,
+              "modo": 0
+            },
+            "description": "Acción Mover Avatar"
+          }
+        ],
+        "description": "Acción Secuencial"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Madre",
+          "condicion": "Accion_Secuencial",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_Secuencial",
+        "data": [
+          {
+            "key": "Accion_Posicionar",
+            "data": {
+              "avatar": "Madre",
+              "accion": "Rotar",
+              "ubicacionMover": null,
+              "ubicacionRotar": "Juan"
+            },
+            "description": "Acción Posicionar"
+          },
+          {
+            "key": "Accion_ReproducirAnimacion",
+            "data": {
+              "avatar": "Madre",
+              "animacion": "Piernas_Agacharse2",
+              "loopear": false,
+              "loops": 0,
+              "lock": false,
+              "aceleracion": 1.0,
+              "enlazar": false,
+              "modo": 0
+            },
+            "description": "Acción Animación"
+          },
+          {
+            "key": "Accion_Hablar",
+            "data": {
+              "avatar": "Madre",
+              "texto": "Juan..mírame",
+              "genero": "Mujer",
+              "modo": 0
+            },
+            "description": "Acción Hablar"
+          }
+        ],
+        "description": "Acción Secuencial"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Juan",
+          "condicion": "Accion_Secuencial",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_Posicionar",
+        "data": {
+          "avatar": "Juan",
+          "accion": "Rotar",
+          "ubicacionMover": null,
+          "ubicacionRotar": "Madre"
+        },
+        "description": "Acción Posicionar"
+      },
+      {
+        "key": "Accion_Secuencial",
+        "data": [
+          {
+            "key": "Accion_Hablar",
+            "data": {
+              "avatar": "Madre",
+              "texto": "La calesita esta andando",
+              "genero": "Mujer",
+              "modo": 0
+            },
+            "description": "Acción Hablar"
+          },
+          {
+            "key": "Accion_Hablar",
+            "data": {
+              "avatar": "Madre",
+              "texto": "No se puede entrar, hay que esperar que pare",
+              "genero": "Mujer",
+              "modo": 0
+            },
+            "description": "Acción Hablar"
+          }
+        ],
+        "description": "Acción Secuencial"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Juan",
+          "condicion": "Accion_Hablar",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_Posicionar",
+        "data": {
+          "avatar": "Juan",
+          "accion": "Rotar",
+          "ubicacionMover": null,
+          "ubicacionRotar": "Calesita"
+        },
+        "description": "Acción Posicionar"
+      },
+      {
+        "key": "Accion_ReproducirAnimacion",
+        "data": {
+          "avatar": "Juan",
+          "animacion": "RA_Senala_Adelante_1",
+          "loopear": false,
+          "loops": 0,
+          "lock": false,
+          "aceleracion": 1.0,
+          "enlazar": false,
+          "modo": 0
+        },
+        "description": "Acción Animación"
+      },
+      {
+        "key": "Accion_Hablar",
+        "data": {
+          "avatar": "Juan",
+          "texto": "Calesita",
+          "genero": "Hombre",
+          "modo": 0
+        },
+        "description": "Acción Hablar"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Madre",
+          "condicion": "Accion_Hablar",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_Hablar",
+        "data": {
+          "avatar": "Madre",
+          "texto": "Si la calesita está andando, hasta que pare puedo usar..",
+          "genero": "Mujer",
+          "modo": 0
+        },
+        "description": "Acción Hablar"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Juan",
+          "condicion": "Accion_Secuencial",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_Secuencial",
+        "data": [
+          {
+            "key": "Accion_Esperar",
+            "data": {
+              "tiempo": 4.0
+            },
+            "description": "Acción Esperar"
+          },
+          {
+            "key": "Accion_Posicionar",
+            "data": {
+              "avatar": "Juan",
+              "accion": "Rotar",
+              "ubicacionMover": null,
+              "ubicacionRotar": "Tobogan"
+            },
+            "description": "Acción Posicionar"
+          },
+          {
+            "key": "Accion_ReproducirAnimacion",
+            "data": {
+              "avatar": "Juan",
+              "animacion": "RA_Senala_Adelante_1",
+              "loopear": false,
+              "loops": 0,
+              "lock": false,
+              "aceleracion": 1.0,
+              "enlazar": false,
+              "modo": 0
+            },
+            "description": "Acción Animación"
+          },
+          {
+            "key": "Accion_Hablar",
+            "data": {
+              "avatar": "Juan",
+              "texto": "El tobogán.",
+              "genero": "Hombre",
+              "modo": 0
+            },
+            "description": "Acción Hablar"
+          },
+          {
+            "key": "Accion_Posicionar",
+            "data": {
+              "avatar": "Juan",
+              "accion": "Rotar",
+              "ubicacionMover": null,
+              "ubicacionRotar": "Madre"
+            },
+            "description": "Acción Posicionar"
+          }
+        ],
+        "description": "Acción Secuencial"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Madre",
+          "condicion": "Accion_Hablar",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_Secuencial",
+        "data": [
+          {
+            "key": "Accion_Hablar",
+            "data": {
+              "avatar": "Madre",
+              "texto": "Muy bien",
+              "genero": "Mujer",
+              "modo": 0
+            },
+            "description": "Acción Hablar"
+          },
+          {
+            "key": "Accion_Hablar",
+            "data": {
+              "avatar": "Madre",
+              "texto": "Si la calesita está andando, no es mi turno aún, me quedo tranquilo y puedo usar el tobogán",
+              "genero": "Mujer",
+              "modo": 0
+            },
+            "description": "Acción Hablar"
+          },
+          {
+            "key": "Accion_Conjunta",
+            "data": [
+              {
+                "key": "Accion_Hablar",
+                "data": {
+                  "avatar": "Madre",
+                  "texto": "Mirá, un cartel",
+                  "genero": "Mujer",
+                  "modo": 0
+                },
+                "description": "Acción Hablar"
+              },
+              {
+                "key": "Accion_Posicionar",
+                "data": {
+                  "avatar": "Madre",
+                  "accion": "Rotar",
+                  "ubicacionMover": null,
+                  "ubicacionRotar": "Cartel"
+                },
+                "description": "Acción Posicionar"
+              },
+              {
+                "key": "Accion_ReproducirAnimacion",
+                "data": {
+                  "avatar": "Madre",
+                  "animacion": "RA_Senala_Adelante_1",
+                  "loopear": false,
+                  "loops": 0,
+                  "lock": false,
+                  "aceleracion": 1.0,
+                  "enlazar": false,
+                  "modo": 0
+                },
+                "description": "Acción Animación"
+              }
+            ],
+            "description": "Acción Conjunta"
+          },
+          {
+            "key": "Accion_Hablar",
+            "data": {
+              "avatar": "Madre",
+              "texto": "¿Qué dice el cartel Juan?",
+              "genero": "Mujer",
+              "modo": 0
+            },
+            "description": "Acción Hablar"
+          }
+        ],
+        "description": "Acción Secuencial"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Posicionar",
+        "data": {
+          "avatar": "Juan",
+          "accion": "Rotar",
+          "ubicacionMover": null,
+          "ubicacionRotar": "Cartel"
+        },
+        "description": "Acción Posicionar"
+      },
+      {
+        "key": "Accion_Hablar",
+        "data": {
+          "avatar": "Juan",
+          "texto": "No se puede subir con la calesita en movimiento",
+          "genero": "Hombre",
+          "modo": 0
+        },
+        "description": "Acción Hablar"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Posicionar",
+        "data": {
+          "avatar": "Camarografo",
+          "accion": "Rotar",
+          "ubicacionMover": null,
+          "ubicacionRotar": "Madre"
+        },
+        "description": "Acción Posicionar"
+      },
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Madre",
+          "condicion": "Accion_Secuencial",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_Secuencial",
+        "data": [
+          {
+            "key": "Accion_Posicionar",
+            "data": {
+              "avatar": "Madre",
+              "accion": "Rotar",
+              "ubicacionMover": null,
+              "ubicacionRotar": "Juan"
+            },
+            "description": "Acción Posicionar"
+          },
+          {
+            "key": "Accion_ReproducirAnimacion",
+            "data": {
+              "avatar": "Madre",
+              "animacion": "Piernas_Agacharse2",
+              "loopear": false,
+              "loops": 0,
+              "lock": false,
+              "aceleracion": 1.0,
+              "enlazar": false,
+              "modo": 0
+            },
+            "description": "Acción Animación"
+          },
+          {
+            "key": "Accion_Hablar",
+            "data": {
+              "avatar": "Madre",
+              "texto": "Mientras tanto puedo usar el tobogán",
+              "genero": "Mujer",
+              "modo": 0
+            },
+            "description": "Acción Hablar"
+          }
+        ],
+        "description": "Acción Secuencial"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Juan",
+          "condicion": "Accion_Hablar",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_Posicionar",
+        "data": {
+          "avatar": "Juan",
+          "accion": "Rotar",
+          "ubicacionMover": null,
+          "ubicacionRotar": "Madre"
+        },
+        "description": "Acción Posicionar"
+      },
+      {
+        "key": "Accion_Hablar",
+        "data": {
+          "avatar": "Juan",
+          "texto": "No pasa nada, primero tobogán y después calesita",
+          "genero": "Hombre",
+          "modo": 0
+        },
+        "description": "Acción Hablar"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Madre",
+          "condicion": "Accion_Hablar",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_Hablar",
+        "data": {
+          "avatar": "Madre",
+          "texto": "Así es, primero tobogán y después calesita",
+          "genero": "Mujer",
+          "modo": 0
+        },
+        "description": "Acción Hablar"
+      }
+    ],
+    "description": "Acción Conjunta"
+  },
+  {
+    "key": "Accion_Conjunta",
+    "data": [
+      {
+        "key": "Accion_Seguimiento",
+        "data": {
+          "avatar": "Camarografo",
+          "objetivo": "Madre",
+          "condicion": "Accion_MoverAvatar",
+          "modo": 1
+        },
+        "description": "Acción Seguimiento"
+      },
+      {
+        "key": "Accion_MoverAvatar",
+        "data": {
+          "avatar": "Camarografo",
+          "ubicacion": "Tobogan3",
+          "velocidad": 2.0,
+          "distancia": 1.0,
+          "modo": 0
+        },
+        "description": "Acción Mover Avatar"
+      },
+      {
+        "key": "Accion_MoverAvatar",
+        "data": {
+          "avatar": "Juan",
+          "ubicacion": "Tobogan1",
+          "velocidad": 2.0,
+          "distancia": 1.0,
+          "modo": 0
+        },
+        "description": "Acción Mover Avatar"
+      },
+      {
+        "key": "Accion_MoverAvatar",
+        "data": {
+          "avatar": "Madre",
+          "ubicacion": "Tobogan2",
+          "velocidad": 2.0,
+          "distancia": 1.0,
+          "modo": 0
+        },
+        "description": "Acción Mover Avatar"
+      }
+    ],
+    "description": "Acción Conjunta"
+  }
+]

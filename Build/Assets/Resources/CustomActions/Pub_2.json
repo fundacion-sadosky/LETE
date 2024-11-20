@@ -1,0 +1,7425 @@
+[
+	{
+		"key": "Accion_Secuencial",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Pub",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 18.0,
+					"parZ": 18.0,
+					"rotacion": 0.0,
+					"escalaX": 0.9,
+					"escalaY": 0.0,
+					"escalaZ": 25.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Pub",
+					"piso": 0,
+					"pared": "Oeste",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 2.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Pub",
+					"piso": 0,
+					"pared": "Oeste",
+					"parX": 3.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 2.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Pub",
+					"piso": 0,
+					"pared": "Oeste",
+					"parX": 13.5,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 0.5,
+					"escalaY": 1.5,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Pub",
+					"piso": 0,
+					"pared": "Oeste",
+					"parX": 14.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 2.0,
+					"escalaY": 2.5,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Pub",
+					"piso": 0,
+					"pared": "Oeste",
+					"parX": 16.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 0.5,
+					"escalaY": 1.5,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "PosBartender",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 15.5,
+					"parZ": 3.6,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos6Camara",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos5Julian",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 4.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos6Julian",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 12.0,
+					"parZ": 4.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos5Laura",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos6Laura",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 12.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos8Camara",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 12.5,
+					"parZ": 16.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos9Camara",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 12.5,
+					"parZ": 12.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "Cork",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Plaza piso 0 cambiar a pasto"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared interna",
+					"nombreObjeto": "Cork",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Plaza piso 0 cambiar a pasto"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "madera",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Plaza piso 0 cambiar a pasto"
+			}
+		],
+		"description": "Pub creacion"
+	},
+	{
+		"key": "Accion_Secuencial",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda1",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 21.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": -2.1,
+					"escalaY": 0.0,
+					"escalaZ": 43.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Vereda1",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda1",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos1Julian",
+					"room": "Vereda1",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.0,
+					"parZ": 2.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos2Camara",
+					"room": "Vereda1",
+					"piso": 0,
+					"pared": null,
+					"parX": 12.0,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "EsquinaPub",
+					"room": "Vereda1",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.0,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Vereda1 creacion"
+	},
+	{
+		"key": "Accion_Secuencial",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda2",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 60.0,
+					"rotacion": 0.0,
+					"escalaX": -2.1,
+					"escalaY": 0.0,
+					"escalaZ": -16.14
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Vereda2",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda2",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda2sub",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 63.0,
+					"rotacion": 0.0,
+					"escalaX": -2.1,
+					"escalaY": -3.0,
+					"escalaZ": -16.14
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Vereda2sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared Externa",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda2sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos1Camara",
+					"room": "Vereda2",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.5,
+					"parZ": 35.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos4Camara",
+					"room": "Vereda2",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.5,
+					"parZ": 42.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos5Camara",
+					"room": "Vereda2",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 45.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos2Julian",
+					"room": "Vereda2",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.0,
+					"parZ": 45.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Pos3Camara",
+					"room": "Vereda2",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.0,
+					"parZ": 47.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Vereda2 creacion"
+	},
+	{
+		"key": "Accion_Secuencial",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda3",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 21.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": -2.1,
+					"escalaY": 0.0,
+					"escalaZ": 51.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Vereda3",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda3",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda3sub",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 21.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": -2.1,
+					"escalaY": -3.0,
+					"escalaZ": 51.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Vereda3sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared Externa",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda3sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda4",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 18.0,
+					"rotacion": 0.0,
+					"escalaX": -2.1,
+					"escalaY": 0.0,
+					"escalaZ": 54.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Vereda4",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda4",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda4sub",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 18.0,
+					"rotacion": 0.0,
+					"escalaX": -2.1,
+					"escalaY": -3.0,
+					"escalaZ": 54.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Vereda4sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared Externa",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda4sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Calle1",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 47.0,
+					"parZ": 5.0,
+					"rotacion": 0.0,
+					"escalaX": -28.1,
+					"escalaY": -0.25,
+					"escalaZ": 46.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Calle1",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "Asfalto",
+					"room": "Calle1",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Edificio1",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 18.0,
+					"parZ": 18.0,
+					"rotacion": 0.0,
+					"escalaX": 0.9,
+					"escalaY": 0.0,
+					"escalaZ": 54.86
+				},
+				"description": "Edificio1"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio1 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 1,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio1 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 2,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio1 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 1,
+					"pared": "Sur",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 1,
+					"pared": "Sur",
+					"parX": 10,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 1,
+					"pared": "Norte",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 1,
+					"pared": "Norte",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 1,
+					"pared": "Este",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 1,
+					"pared": "Este",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 1,
+					"pared": "Oeste",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 1,
+					"pared": "Oeste",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 2,
+					"pared": "Sur",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 2,
+					"pared": "Sur",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 2,
+					"pared": "Norte",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 2,
+					"pared": "Norte",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 2,
+					"pared": "Este",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 2,
+					"pared": "Este",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 2,
+					"pared": "Oeste",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio1",
+					"piso": 2,
+					"pared": "Oeste",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio1",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio1",
+					"piso": 1,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio1",
+					"piso": 2,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Edificio2",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 18.0,
+					"parZ": 18.0,
+					"rotacion": 0.0,
+					"escalaX": -28.1,
+					"escalaY": 0.0,
+					"escalaZ": 25.86
+				},
+				"description": "Edificio2"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio2 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 1,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio2 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 2,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio2 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 1,
+					"pared": "Sur",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 1,
+					"pared": "Sur",
+					"parX": 10,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 1,
+					"pared": "Norte",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 1,
+					"pared": "Norte",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 1,
+					"pared": "Este",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 1,
+					"pared": "Este",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 1,
+					"pared": "Oeste",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 1,
+					"pared": "Oeste",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 2,
+					"pared": "Sur",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 2,
+					"pared": "Sur",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 2,
+					"pared": "Norte",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 2,
+					"pared": "Norte",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 2,
+					"pared": "Este",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 2,
+					"pared": "Este",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 2,
+					"pared": "Oeste",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio2",
+					"piso": 2,
+					"pared": "Oeste",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio2",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio2",
+					"piso": 1,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio2",
+					"piso": 2,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Vereda3 creacion"
+	},
+	{
+		"key": "Accion_Secuencial",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Edificio3",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 18.0,
+					"parZ": 18.0,
+					"rotacion": 0.0,
+					"escalaX": -28.1,
+					"escalaY": 0.0,
+					"escalaZ": 54.86
+				},
+				"description": "Edificio3"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio3 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 1,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio3 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 2,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio3 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 1,
+					"pared": "Sur",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 1,
+					"pared": "Sur",
+					"parX": 10,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 1,
+					"pared": "Norte",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 1,
+					"pared": "Norte",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 1,
+					"pared": "Este",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 1,
+					"pared": "Este",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 1,
+					"pared": "Oeste",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 1,
+					"pared": "Oeste",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 2,
+					"pared": "Sur",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 2,
+					"pared": "Sur",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 2,
+					"pared": "Norte",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 2,
+					"pared": "Norte",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 2,
+					"pared": "Este",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 2,
+					"pared": "Este",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 2,
+					"pared": "Oeste",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio3",
+					"piso": 2,
+					"pared": "Oeste",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio3",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio3",
+					"piso": 1,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio3",
+					"piso": 2,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda5",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 21.0,
+					"rotacion": 0.0,
+					"escalaX": -10.1,
+					"escalaY": 0.0,
+					"escalaZ": 51.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Vereda5",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda5",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda5sub",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 21.0,
+					"rotacion": 0.0,
+					"escalaX": -10.1,
+					"escalaY": -3.0,
+					"escalaZ": 51.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Vereda5sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared Externa",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda5sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda6",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 18.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": -28.1,
+					"escalaY": 0.0,
+					"escalaZ": 51.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Vereda6",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda6",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda6sub",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 21.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": -28.1,
+					"escalaY": -3.0,
+					"escalaZ": 51.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Vereda6sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared Externa",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda6sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Vereda3 creacion"
+	},
+	{
+		"key": "Accion_Secuencial",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Plaza",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 36.0,
+					"parZ": 36.0,
+					"rotacion": 0.0,
+					"escalaX": -46.1,
+					"escalaY": 0.0,
+					"escalaZ": -10.14
+				},
+				"description": "Plaza"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Plaza creando piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "pasto",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Plaza creando piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda7",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 60.0,
+					"rotacion": 0.0,
+					"escalaX": -10.1,
+					"escalaY": 0.0,
+					"escalaZ": -16.14
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Vereda7",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda7",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda7sub",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 60.0,
+					"rotacion": 0.0,
+					"escalaX": -10.1,
+					"escalaY": -3.0,
+					"escalaZ": -16.14
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Vereda7sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared Externa",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda7sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda8",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 21.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": -28.1,
+					"escalaY": 0.0,
+					"escalaZ": 43.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Vereda8",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda8",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Vereda8sub",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 21.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": -28.1,
+					"escalaY": -3.0,
+					"escalaZ": 43.86
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Vereda8sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared Externa",
+					"nombreObjeto": "Concreto",
+					"room": "Vereda8sub",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Plaza creacion"
+	},
+	{
+		"key": "Accion_Secuencial",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Edificio4",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 18.0,
+					"parZ": 18.0,
+					"rotacion": 0.0,
+					"escalaX": 0.9,
+					"escalaY": 0.0,
+					"escalaZ": 7.85
+				},
+				"description": "Edificio4"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio4 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 1,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio4 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 2,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Edificio4 piso 0"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 1,
+					"pared": "Sur",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 1,
+					"pared": "Sur",
+					"parX": 10,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 1,
+					"pared": "Norte",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 1,
+					"pared": "Norte",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 1,
+					"pared": "Este",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 1,
+					"pared": "Este",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 1,
+					"pared": "Oeste",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 1,
+					"pared": "Oeste",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 2,
+					"pared": "Sur",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 2,
+					"pared": "Sur",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 2,
+					"pared": "Norte",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 2,
+					"pared": "Norte",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 2,
+					"pared": "Este",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 2,
+					"pared": "Este",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 2,
+					"pared": "Oeste",
+					"parX": 4.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Edificio4",
+					"piso": 2,
+					"pared": "Oeste",
+					"parX": 10.0,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 4.0,
+					"escalaY": 2.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio4",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio4",
+					"piso": 1,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "BloquesConcreto",
+					"room": "Edificio4",
+					"piso": 2,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Plaza creacion"
+	},
+	{
+		"key": "Accion_Secuencial",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Calle2",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 5.0,
+					"parZ": 89.0,
+					"rotacion": 0.0,
+					"escalaX": -7.1,
+					"escalaY": -0.25,
+					"escalaZ": -16.14
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Calle2",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "Asfalto",
+					"room": "Calle2",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Plaza creacion"
+	},
+	{
+		"key": "Accion_DinamicRoom",
+		"data": {
+			"accion": "UpdateNavMesh",
+			"tipoObjeto": null,
+			"nombreObjeto": null,
+			"room": null,
+			"piso": 0,
+			"pared": null,
+			"parX": 0.0,
+			"parZ": 0.0,
+			"rotacion": 0.0,
+			"escalaX": 0.0,
+			"escalaY": 0.0,
+			"escalaZ": 0.0
+		},
+		"description": "Acción Dynamic Rooms"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "mesitaRatona",
+					"nombreObjeto": "MesaRatona1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.0,
+					"parZ": 7.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillon",
+					"nombreObjeto": "Sillon1.1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.0,
+					"parZ": 5.5,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillon",
+					"nombreObjeto": "Sillon1.2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.0,
+					"parZ": 8.5,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "mesitaRatona",
+					"nombreObjeto": "MesaRatona2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.0,
+					"parZ": 14.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillon",
+					"nombreObjeto": "Sillon2.1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.0,
+					"parZ": 12.5,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillon",
+					"nombreObjeto": "Sillon2.2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.0,
+					"parZ": 15.5,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "mesaRedonda",
+					"nombreObjeto": "Mesa1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.5,
+					"parZ": 14.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla1.1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.5,
+					"parZ": 13.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla1.2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.5,
+					"parZ": 15.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla1.3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.5,
+					"parZ": 14.0,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla1.4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.5,
+					"parZ": 14.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "mesaRedonda",
+					"nombreObjeto": "Mesa2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 14.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla2.1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.5,
+					"parZ": 14.0,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla2.2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 10.5,
+					"parZ": 14.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla2.3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 13.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla2.4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 15.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "mesaRedonda",
+					"nombreObjeto": "Mesa3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 13.5,
+					"parZ": 14.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla3.1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 12.5,
+					"parZ": 14.0,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla3.2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 14.5,
+					"parZ": 14.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla3.3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 13.5,
+					"parZ": 13.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla3.4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 13.5,
+					"parZ": 15.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "mesaRedonda",
+					"nombreObjeto": "Mesa4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.5,
+					"parZ": 10.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla4.1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.5,
+					"parZ": 10.0,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla4.2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.5,
+					"parZ": 10.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla4.3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.5,
+					"parZ": 9.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla4.4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.5,
+					"parZ": 11.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "mesaRedonda",
+					"nombreObjeto": "Mesa5",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 10.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla5.1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.5,
+					"parZ": 10.0,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla5.2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 10.5,
+					"parZ": 10.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla5.3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 9.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla5.4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 11.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "mesaRedonda",
+					"nombreObjeto": "Mesa6",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 13.5,
+					"parZ": 10.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla6.1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 12.5,
+					"parZ": 10.0,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla6.2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 14.5,
+					"parZ": 10.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla6.3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 13.5,
+					"parZ": 9.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla6.4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 13.5,
+					"parZ": 11.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "mesaRedonda",
+					"nombreObjeto": "Mesa7",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.5,
+					"parZ": 6.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla7.1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.5,
+					"parZ": 6.0,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla7.2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.5,
+					"parZ": 6.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla7.3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.5,
+					"parZ": 5.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla7.4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.5,
+					"parZ": 7.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "mesaRedonda",
+					"nombreObjeto": "Mesa8",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 6.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla8.1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.5,
+					"parZ": 6.0,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla8.2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 10.5,
+					"parZ": 6.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla8.3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 5.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla8.4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 7.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barra",
+					"nombreObjeto": "Barra1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 14.5,
+					"parZ": 0.61,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barra",
+					"nombreObjeto": "Barra2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 14.5,
+					"parZ": 1.8,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barra",
+					"nombreObjeto": "Barra3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 14.5,
+					"parZ": 3.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barra",
+					"nombreObjeto": "Barra4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 14.5,
+					"parZ": 4.2,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barra",
+					"nombreObjeto": "Barra5",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 14.5,
+					"parZ": 5.4,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barra",
+					"nombreObjeto": "Barra6",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 14.5,
+					"parZ": 6.6,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "bar",
+					"nombreObjeto": "barcito",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 17.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Spawn Objetos"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "cuadro",
+					"nombreObjeto": "Cuadro1",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 15.0,
+					"parZ": 17.97,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "cuadro",
+					"nombreObjeto": "Cuadro2",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 12.0,
+					"parZ": 17.97,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "cuadro",
+					"nombreObjeto": "Cuadro3",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.0,
+					"parZ": 17.97,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "cuadro",
+					"nombreObjeto": "Cuadro4",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.0,
+					"parZ": 17.97,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "cuadro",
+					"nombreObjeto": "Cuadro5",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 17.97,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "cuadro",
+					"nombreObjeto": "Cuadro6",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 12.0,
+					"parZ": 0.03,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "cuadro",
+					"nombreObjeto": "Cuadro7",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.0,
+					"parZ": 0.03,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "cuadro",
+					"nombreObjeto": "Cuadro8",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.0,
+					"parZ": 0.03,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "cuadro",
+					"nombreObjeto": "Cuadro9",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 0.03,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "televisor",
+					"nombreObjeto": "TV",
+					"room": "Pub",
+					"piso": 0,
+					"pared": null,
+					"parX": 18.0,
+					"parZ": 14.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Spawn Objetos"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "banco",
+					"nombreObjeto": "Banco1",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.0,
+					"parZ": 6.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "farol",
+					"nombreObjeto": "Farol1",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.0,
+					"parZ": 6.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "arbol",
+					"nombreObjeto": "Arbol1",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.0,
+					"parZ": 12.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "banco",
+					"nombreObjeto": "Banco2",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.0,
+					"parZ": 18.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "farol",
+					"nombreObjeto": "Farol2",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.0,
+					"parZ": 18.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "arbol",
+					"nombreObjeto": "Arbol2",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.0,
+					"parZ": 24.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "banco",
+					"nombreObjeto": "Banco3",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.0,
+					"parZ": 30.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "farol",
+					"nombreObjeto": "Farol3",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.0,
+					"parZ": 30.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "banco",
+					"nombreObjeto": "Banco4",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 33.0,
+					"parZ": 6.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "farol",
+					"nombreObjeto": "Farol4",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 30.0,
+					"parZ": 6.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "arbol",
+					"nombreObjeto": "Arbol3",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 30.0,
+					"parZ": 12.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "banco",
+					"nombreObjeto": "Banco5",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 33.0,
+					"parZ": 18.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "farol",
+					"nombreObjeto": "Farol5",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 30.0,
+					"parZ": 18.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "arbol",
+					"nombreObjeto": "Arbol4",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 30.0,
+					"parZ": 24.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "banco",
+					"nombreObjeto": "Banco6",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 33.0,
+					"parZ": 30.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "farol",
+					"nombreObjeto": "Farol6",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 30.0,
+					"parZ": 30.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "tobogan",
+					"nombreObjeto": "Tobogan",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 18.0,
+					"parZ": 30.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "cajaArena",
+					"nombreObjeto": "CajaArena",
+					"room": "Plaza",
+					"piso": 0,
+					"pared": null,
+					"parX": 15.0,
+					"parZ": 6.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Spawn Objetos"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Camarografo",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Laura",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 16.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Julian",
+					"genero": "man",
+					"posicion": {
+						"x": 8.5,
+						"y": 0.0,
+						"z": 45.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Benja",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Agustin",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Belen",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Juan",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Hombre1",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Hombre2",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Mujer1",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Hombre3",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Hombre4",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Mateo",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Mujer2",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Tobias",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Mujer3",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Mujer4",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Virginia",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Anastacia",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Leo",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Emma",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Daniel",
+					"genero": "man",
+					"posicion": {
+						"x": 16.4,
+						"y": 0.0,
+						"z": 29.46,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": "barman"
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Valeria",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Alejandro",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Manuel",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Hugo",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Martina",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			}
+		],
+		"description": "Spawn Avatares"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Agustin",
+					"objeto": "Sillon1.2",
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Belen",
+					"objeto": "Sillon1.1",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Juan",
+					"objeto": "Silla8.1",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Hombre1",
+					"objeto": "Silla8.3",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Hombre2",
+					"objeto": "Silla4.4",
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Mujer1",
+					"objeto": "Silla4.2",
+					"rotacion": {
+						"x": 0.0,
+						"y": 270.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Hombre3",
+					"objeto": "Silla7.1",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Hombre4",
+					"objeto": "Silla7.2",
+					"rotacion": {
+						"x": 0.0,
+						"y": 270.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Mateo",
+					"objeto": "Silla7.4",
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Mujer2",
+					"objeto": "Silla6.1",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Tobias",
+					"objeto": "Silla6.2",
+					"rotacion": {
+						"x": 0.0,
+						"y": 270.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Mujer3",
+					"objeto": "Sillon2.2",
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Mujer4",
+					"objeto": "Sillon2.1",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Virginia",
+					"objeto": "Silla5.1",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Anastacia",
+					"objeto": "Silla5.3",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Leo",
+					"objeto": "Silla2.2",
+					"rotacion": {
+						"x": 0.0,
+						"y": 270.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Emma",
+					"objeto": "Silla2.4",
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Hugo",
+					"objeto": "Silla1.3",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Valeria",
+					"objeto": "Silla1.1",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Alejandro",
+					"objeto": "Silla1.2",
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Manuel",
+					"objeto": "Silla1.4",
+					"rotacion": {
+						"x": 0.0,
+						"y": 270.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			}
+		],
+		"description": "Sentando a los actores secundarios"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Laura",
+					"condicion": "Accion_MoverAvatar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_MoverAvatar",
+				"data": {
+					"avatar": "Camarografo",
+					"ubicacion": "Pos4Camara",
+					"velocidad": 2.0,
+					"distancia": 1.0,
+					"modo": 0
+				},
+				"description": "Acción Mover Avatar"
+			},
+			{
+				"key": "Accion_MoverAvatar",
+				"data": {
+					"avatar": "Laura",
+					"ubicacion": "Pos2Julian",
+					"velocidad": 2.0,
+					"distancia": 1.0,
+					"modo": 0
+				},
+				"description": "Acción Mover Avatar"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Benja",
+					"objeto": "Silla3.2",
+					"rotacion": {
+						"x": 0.0,
+						"y": 270.0,
+						"z": 0.0,
+						"normalized": {
+							"x": 0.0,
+							"y": 1.0,
+							"z": 0.0,
+							"magnitude": 1.0,
+							"sqrMagnitude": 1.0
+						},
+						"magnitude": 270.0,
+						"sqrMagnitude": 72900.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Martina",
+					"objeto": "Silla3.3",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Celular",
+				"data": {
+					"avatar": "Laura",
+					"remitente": "Julian",
+					"tipoMsg": "Texto",
+					"direccion": "Enviar",
+					"texto": "¡Llegué! Estoy en la puerta.",
+					"genero": "Mujer",
+					"imagen": null,
+					"modo": 3
+				},
+				"description": "Acción Celular"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Laura",
+					"animacion": "RA_Preview_Object",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Pos2Camara",
+					"ubicacionRotar": "Julian"
+				},
+				"description": "Acción Posicionar"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Julian",
+					"condicion": "Accion_Secuencial",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Julian",
+							"ubicacion": "EsquinaPub",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					},
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Julian",
+							"ubicacion": "Pos2Julian",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					}
+				],
+				"description": "Acción Secuencial"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Camarografo",
+							"ubicacion": "EsquinaPub",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					},
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Camarografo",
+							"ubicacion": "Pos3Camara",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					}
+				],
+				"description": "Acción Secuencial"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Julian",
+					"animacion": "RA_Preview_Object",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Laura",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Pos5Camara",
+					"ubicacionRotar": "Laura"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Hablar",
+				"data": {
+					"avatar": "Laura",
+					"texto": "¡Hola!",
+					"genero": "Mujer",
+					"modo": 0
+				},
+				"description": "Acción Hablar"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Julian",
+					"condicion": "Accion_ReproducirAnimacion",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "Rotar",
+					"ubicacionMover": null,
+					"ubicacionRotar": "Julian"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Julian",
+					"animacion": "Saludo_Puño_Mirada_Baja",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Laura",
+					"condicion": "Accion_Secuencial",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "Rotar",
+					"ubicacionMover": null,
+					"ubicacionRotar": "Laura"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_Conjunta",
+						"data": [
+							{
+								"key": "Accion_Hablar",
+								"data": {
+									"avatar": "Laura",
+									"texto": "¡Hola!",
+									"genero": "Mujer",
+									"modo": 0
+								},
+								"description": "Acción Hablar"
+							},
+							{
+								"key": "Accion_ReproducirAnimacion",
+								"data": {
+									"avatar": "Laura",
+									"animacion": "RA_Neutral_Saludo_Puño",
+									"loopear": false,
+									"loops": 0,
+									"lock": false,
+									"aceleracion": 1.0,
+									"enlazar": false,
+									"modo": 0
+								},
+								"description": "Acción Animación"
+							}
+						],
+						"description": "Acción Conjunta"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Julian",
+							"texto": "¡Hola!",
+							"genero": "Hombre",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Laura",
+							"texto": "¿Entramos?",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Julian",
+							"texto": "Si.",
+							"genero": "Hombre",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					}
+				],
+				"description": "Acción Secuencial"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Julian",
+					"animacion": "RA_Neutral_Saludo_Puño",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Laura",
+					"condicion": "Accion_MoverAvatar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_MoverAvatar",
+				"data": {
+					"avatar": "Camarografo",
+					"ubicacion": "Pos6Camara",
+					"velocidad": 2.5,
+					"distancia": 1.0,
+					"modo": 0
+				},
+				"description": "Acción Mover Avatar"
+			},
+			{
+				"key": "Accion_MoverAvatar",
+				"data": {
+					"avatar": "Laura",
+					"ubicacion": "Pos5Laura",
+					"velocidad": 2.0,
+					"distancia": 1.0,
+					"modo": 0
+				},
+				"description": "Acción Mover Avatar"
+			},
+			{
+				"key": "Accion_MoverAvatar",
+				"data": {
+					"avatar": "Julian",
+					"ubicacion": "Pos5Julian",
+					"velocidad": 2.0,
+					"distancia": 1.0,
+					"modo": 0
+				},
+				"description": "Acción Mover Avatar"
+			},
+			{
+				"key": "Accion_Musica",
+				"data": {
+					"nombrePlaylist": "BackgroundNoise"
+				},
+				"description": "Acción Musica"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Laura",
+					"condicion": "Accion_Secuencial",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_ReproducirAnimacion",
+						"data": {
+							"avatar": "Laura",
+							"animacion": "mira_costado_derecha_2",
+							"loopear": false,
+							"loops": 0,
+							"lock": false,
+							"aceleracion": 1.0,
+							"enlazar": false,
+							"modo": 0
+						},
+						"description": "Acción Animación"
+					},
+					{
+						"key": "Accion_ReproducirAnimacion",
+						"data": {
+							"avatar": "Laura",
+							"animacion": "mira_costado_izquierda_2",
+							"loopear": false,
+							"loops": 0,
+							"lock": false,
+							"aceleracion": 1.0,
+							"enlazar": false,
+							"modo": 0
+						},
+						"description": "Acción Animación"
+					},
+					{
+						"key": "Accion_Posicionar",
+						"data": {
+							"avatar": "Laura",
+							"accion": "Rotar",
+							"ubicacionMover": null,
+							"ubicacionRotar": "Benja"
+						},
+						"description": "Acción Posicionar"
+					},
+					{
+						"key": "Accion_Conjunta",
+						"data": [
+							{
+								"key": "Accion_ReproducirAnimacion",
+								"data": {
+									"avatar": "Laura",
+									"animacion": "RA_Senala_Adelante_1",
+									"loopear": false,
+									"loops": 0,
+									"lock": false,
+									"aceleracion": 1.0,
+									"enlazar": false,
+									"modo": 0
+								},
+								"description": "Acción Animación"
+							},
+							{
+								"key": "Accion_Hablar",
+								"data": {
+									"avatar": "Laura",
+									"texto": "Ahí están Martina y Benja.",
+									"genero": "Mujer",
+									"modo": 0
+								},
+								"description": "Acción Hablar"
+							}
+						],
+						"description": "Acción Conjunta"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Laura",
+					"condicion": "Accion_Secuencial",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Camarografo",
+							"ubicacion": "Pos6Laura",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					},
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Camarografo",
+							"ubicacion": "Pos8Camara",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					}
+				],
+				"description": "Acción Secuencial"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Laura",
+							"ubicacion": "Pos6Laura",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					},
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Laura",
+							"ubicacion": "Martina",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					}
+				],
+				"description": "Acción Secuencial"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Julian",
+							"ubicacion": "Pos6Julian",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					},
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Julian",
+							"ubicacion": "Benja",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Laura",
+					"condicion": "Accion_ReproducirAnimacion",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Laura",
+					"accion": "Rotar",
+					"ubicacionMover": null,
+					"ubicacionRotar": "Martina"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Martina",
+					"accion": "Rotar",
+					"ubicacionMover": null,
+					"ubicacionRotar": "Laura"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Benja",
+					"accion": "Rotar",
+					"ubicacionMover": null,
+					"ubicacionRotar": "Julian"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Julian",
+					"accion": "Rotar",
+					"ubicacionMover": null,
+					"ubicacionRotar": "Benja"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Laura",
+					"animacion": "RA_Apreton_Manos",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Julian",
+					"animacion": "RA_Apreton_Manos",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Benja",
+					"animacion": "Sentado_Apreton_Manos",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": true,
+					"modo": 0
+				},
+				"description": "Acción Animación"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Martina",
+					"animacion": "Sentado_Apreton_Manos",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": true,
+					"modo": 0
+				},
+				"description": "Acción Animación"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Laura",
+					"accion": "MoverYRotar",
+					"ubicacionMover": "Silla3.1",
+					"ubicacionRotar": "Mesa3"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Esperar",
+				"data": {
+					"tiempo": 2.0
+				},
+				"description": "Acción Esperar"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Martina",
+					"accion": "Rotar",
+					"ubicacionMover": null,
+					"ubicacionRotar": "Silla3.4"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Benja",
+					"accion": "Rotar",
+					"ubicacionMover": null,
+					"ubicacionRotar": "Silla3.1"
+				},
+				"description": "Acción Posicionar"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Laura",
+					"condicion": "Accion_Sentarse",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Laura",
+					"objeto": "Silla3.1",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0,
+						"normalized": {
+							"x": 0.0,
+							"y": 1.0,
+							"z": 0.0,
+							"magnitude": 1.0,
+							"sqrMagnitude": 1.0
+						},
+						"magnitude": 90.0,
+						"sqrMagnitude": 8100.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Benja",
+					"accion": "MoverYRotar",
+					"ubicacionMover": "Silla3.2",
+					"ubicacionRotar": "Mesa3"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Martina",
+					"accion": "MoverYRotar",
+					"ubicacionMover": "Silla3.3",
+					"ubicacionRotar": "Mesa3"
+				},
+				"description": "Acción Posicionar"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Julian",
+					"condicion": "Accion_Secuencial",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_ReproducirAnimacion",
+						"data": {
+							"avatar": "Julian",
+							"animacion": "mira_costado_derecha_2",
+							"loopear": false,
+							"loops": 0,
+							"lock": false,
+							"aceleracion": 1.0,
+							"enlazar": false,
+							"modo": 0
+						},
+						"description": "Acción Animación"
+					},
+					{
+						"key": "Accion_ReproducirAnimacion",
+						"data": {
+							"avatar": "Julian",
+							"animacion": "mira_costado_izquierda_2",
+							"loopear": false,
+							"loops": 0,
+							"lock": false,
+							"aceleracion": 1.0,
+							"enlazar": false,
+							"modo": 0
+						},
+						"description": "Acción Animación"
+					},
+					{
+						"key": "Accion_Posicionar",
+						"data": {
+							"avatar": "Julian",
+							"accion": "MoverYRotar",
+							"ubicacionMover": "Silla3.4",
+							"ubicacionRotar": "Mesa3"
+						},
+						"description": "Acción Posicionar"
+					},
+					{
+						"key": "Accion_Sentarse",
+						"data": {
+							"avatar": "Julian",
+							"objeto": "Silla3.4",
+							"rotacion": {
+								"x": 0.0,
+								"y": 180.0,
+								"z": 0.0,
+								"normalized": {
+									"x": 0.0,
+									"y": 1.0,
+									"z": 0.0,
+									"magnitude": 1.0,
+									"sqrMagnitude": 1.0
+								},
+								"magnitude": 180.0,
+								"sqrMagnitude": 32400.0
+							},
+							"modo": 0
+						},
+						"description": "Acción Sentarse"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Martina",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Hablar",
+				"data": {
+					"avatar": "Martina",
+					"texto": "¡Mucho ruido!",
+					"genero": "Mujer",
+					"modo": 0
+				},
+				"description": "Acción Hablar"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Benja",
+					"condicion": "Accion_Secuencial",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Benja",
+							"texto": "¿Trajiste tus auriculares?",
+							"genero": "Hombre",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Martina",
+							"texto": "Si.",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Benja",
+							"texto": "Es un buen momento para usarlos.",
+							"genero": "Hombre",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Conjunta",
+						"data": [
+							{
+								"key": "Accion_ReproducirAnimacion",
+								"data": {
+									"avatar": "Martina",
+									"animacion": "Torso_Neutral_PonerseSombrero",
+									"loopear": false,
+									"loops": 0,
+									"lock": false,
+									"aceleracion": 1.0,
+									"enlazar": false,
+									"modo": 0
+								},
+								"description": "Acción Animación"
+							},
+							{
+								"key": "Accion_Agarrar",
+								"data": {
+									"avatar": "Martina",
+									"objeto": "Auriculares",
+									"parteDelCuerpo": "Cabeza",
+									"offset": {
+										"x": 0.0,
+										"y": 0.0,
+										"z": 0.0,
+										"magnitude": 0.0,
+										"sqrMagnitude": 0.0
+									},
+									"escala": {
+										"x": 1.1,
+										"y": 1.1,
+										"z": 1.1,
+										"normalized": {
+											"x": 0.577350259,
+											"y": 0.577350259,
+											"z": 0.577350259,
+											"magnitude": 1.0,
+											"sqrMagnitude": 0.99999994
+										},
+										"magnitude": 1.90525591,
+										"sqrMagnitude": 3.63
+									},
+									"rotacion": {
+										"x": 0.0,
+										"y": 0.0,
+										"z": 0.0,
+										"magnitude": 0.0,
+										"sqrMagnitude": 0.0
+									},
+									"modo": 0
+								},
+								"description": "Acción Agarrar"
+							}
+						],
+						"description": "Acción Conjunta"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Martina",
+					"condicion": "Accion_Sentarse",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Martina",
+					"objeto": "Silla3.3",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Julian",
+					"condicion": "Accion_Secuencial",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_MoverAvatar",
+						"data": {
+							"avatar": "Camarografo",
+							"ubicacion": "Pos9Camara",
+							"velocidad": 2.0,
+							"distancia": 1.0,
+							"modo": 0
+						},
+						"description": "Acción Mover Avatar"
+					},
+					{
+						"key": "Accion_ReproducirAnimacion",
+						"data": {
+							"avatar": "Julian",
+							"animacion": "Taparse_Cara_Sentado",
+							"loopear": false,
+							"loops": 0,
+							"lock": false,
+							"aceleracion": 1.0,
+							"enlazar": true,
+							"modo": 0
+						},
+						"description": "Acción Animación"
+					},
+					{
+						"key": "Accion_Posicionar",
+						"data": {
+							"avatar": "Martina",
+							"accion": "MoverYRotar",
+							"ubicacionMover": "Silla3.3",
+							"ubicacionRotar": "Mesa3"
+						},
+						"description": "Acción Posicionar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Laura",
+							"texto": "¿Qué te pasa?",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Julian",
+							"texto": "No traje los auriculares.",
+							"genero": "Hombre",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Laura",
+							"texto": "¿Te molesta el ruido?",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Julian",
+							"texto": "Si.",
+							"genero": "Hombre",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Martina",
+					"condicion": "Accion_Secuencial",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Martina",
+							"texto": "Respira profundo 3 veces.",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Esperar",
+						"data": {
+							"tiempo": 3.0
+						},
+						"description": "Acción Esperar"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Julian",
+					"condicion": "Accion_Secuencial",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Martina",
+							"texto": "Enfócate en qué pedir para tomar.",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Agarrar",
+						"data": {
+							"avatar": "Martina",
+							"objeto": "Carta_Menu",
+							"parteDelCuerpo": "ManoDerecha",
+							"offset": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0,
+								"magnitude": 0.0,
+								"sqrMagnitude": 0.0
+							},
+							"escala": {
+								"x": 0.35,
+								"y": 0.35,
+								"z": 0.35,
+								"normalized": {
+									"x": 0.577350259,
+									"y": 0.577350259,
+									"z": 0.577350259,
+									"magnitude": 1.0,
+									"sqrMagnitude": 0.99999994
+								},
+								"magnitude": 0.6062178,
+								"sqrMagnitude": 0.367499977
+							},
+							"rotacion": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0,
+								"magnitude": 0.0,
+								"sqrMagnitude": 0.0
+							},
+							"modo": 0
+						},
+						"description": "Acción Agarrar"
+					},
+					{
+						"key": "Accion_ReproducirAnimacion",
+						"data": {
+							"avatar": "Martina",
+							"animacion": "Sentado_Entregar_Objeto",
+							"loopear": false,
+							"loops": 0,
+							"lock": false,
+							"aceleracion": 1.0,
+							"enlazar": true,
+							"modo": 0
+						},
+						"description": "Acción Animación"
+					},
+					{
+						"key": "Accion_DarObjeto",
+						"data": {
+							"avatarA": "Martina",
+							"avatarB": "Julian",
+							"parteDelCuerpo": "ManoDerecha",
+							"offset": {
+								"x": 0.0,
+								"y": 0.09,
+								"z": 0.0,
+								"normalized": {
+									"x": 0.0,
+									"y": 1.0,
+									"z": 0.0,
+									"magnitude": 1.0,
+									"sqrMagnitude": 1.0
+								},
+								"magnitude": 0.09,
+								"sqrMagnitude": 0.0081
+							},
+							"escala": {
+								"x": 0.35,
+								"y": 0.35,
+								"z": 0.35,
+								"normalized": {
+									"x": 0.577350259,
+									"y": 0.577350259,
+									"z": 0.577350259,
+									"magnitude": 1.0,
+									"sqrMagnitude": 0.99999994
+								},
+								"magnitude": 0.6062178,
+								"sqrMagnitude": 0.367499977
+							},
+							"rotacion": {
+								"x": -20.0,
+								"y": 54.0,
+								"z": 64.5,
+								"normalized": {
+									"x": -0.231306642,
+									"y": 0.624527931,
+									"z": 0.745963931,
+									"magnitude": 1.0,
+									"sqrMagnitude": 1.00000012
+								},
+								"magnitude": 86.46531,
+								"sqrMagnitude": 7476.25
+							},
+							"modo": 0
+						},
+						"description": "Acción Dar Objeto"
+					},
+					{
+						"key": "Accion_ReproducirAnimacion",
+						"data": {
+							"avatar": "Julian",
+							"animacion": "Sentado_Preview_Object",
+							"loopear": false,
+							"loops": 0,
+							"lock": false,
+							"aceleracion": 1.0,
+							"enlazar": true,
+							"modo": 0
+						},
+						"description": "Acción Animación"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Martina",
+							"texto": "Yo hago eso si me olvido los auriculares.",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Laura",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Hablar",
+				"data": {
+					"avatar": "Laura",
+					"texto": "¿Respirar profundo o pedir para tomar?",
+					"genero": "Mujer",
+					"modo": 0
+				},
+				"description": "Acción Hablar"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Martina",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Hablar",
+				"data": {
+					"avatar": "Martina",
+					"texto": "¿Es un chiste? No entiendo.",
+					"genero": "Mujer",
+					"modo": 0
+				},
+				"description": "Acción Hablar"
+			}
+		],
+		"description": "Acción Conjunta"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Benja",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Hablar",
+				"data": {
+					"avatar": "Benja",
+					"texto": "Si, tenemos que trabajar en eso.",
+					"genero": "Hombre",
+					"modo": 0
+				},
+				"description": "Acción Hablar"
+			}
+		],
+		"description": "Acción Conjunta"
+	}
+]

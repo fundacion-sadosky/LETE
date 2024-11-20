@@ -1,0 +1,219 @@
+version: "3.1"
+nlu:
+- intent: crear_building #Creacion del building pero con los datos de una.
+  examples: |
+    - quiero crear un edificio de tipo [BuildingConstArea](tipo_building) con id [building-1](id) de [30x30](tamanio_building) en la posicion [10.0](posicionX) [20.0](posicionY) [10.0](posicionZ)
+    - quiero crear un edificio de tipo [BuildingConstArea](tipo_building) con id [edificio-1](id) de [20x20](tamanio_building) en la posicion [20.0](posicionX) [10.0](posicionY) [3.0](posicionZ)
+    - quiero crear un edificio de tipo [BuildingConstArea](tipo_building) con id [room-5](id) de [10x10](tamanio_building) en la posicion [12.0](posicionX) [8.0](posicionY) [15.0](posicionZ)
+    - quiero crear un building de tipo [BuildingConstArea](tipo_building) con id [building1](id) de [30x30](tamanio_building) en la posicion [10.0](posicionX) [20.0](posicionY) [10.0](posicionZ)
+    - quiero crear un building de tipo [BuildingConstArea](tipo_building) con id [edificio2](id) de [30x30](tamanio_building) en la posicion [10.0](posicionX) [20.0](posicionY) [10.0](posicionZ)
+
+- intent: cambiar_material #Cambio de material de pared o piso del room.
+  examples: |
+    - quiero que la [pared externa](tipo_objeto) del piso [2](cantidad) de [edificio-2](id) sea de [madera](material)
+    - quiero que el [piso](tipo_objeto) del piso [2](cantidad) del [edificio-2](id) sea de [madera](material)
+    - quiero que los [pisos](tipo_objeto) del piso [2](cantidad) de [edificio-2](id) sean de [madera](material)
+    - quiero que las [paredes](tipo_objeto) del piso [2](cantidad) del [edificio-2](id) sea de [madera](material)
+    - quiero un [piso](tipo_objeto) del piso [2](cantidad) de [edificio-2](id) de [madera](material)
+    - quiero que el [piso](tipo_objeto) del piso [2](cantidad) de [edificio-2](id) sea [gris](material)
+    - quiero que la [pared interna](tipo_objeto) del piso [2](cantidad) de [edificio-2](id) sea [gris](material)
+
+- intent: agregar_piso #Datos del piso a spawnear
+  examples: |
+    - quiero que el edificio con id [edificio-65](id) sea en el piso [2](cantidad) de tipo [RoomVacio](tipo_room)
+    - quiero que el building con id [building-1](id) sea de tipo [RoomAbierto](tipo_room) en el piso [0](cantidad)
+    - que el building con id [edificio-1](id) sea de tipo [RoomVacio](tipo_room) en el piso [19](cantidad)
+
+- intent: agregar_objeto #Objeto a spawnear
+  examples: |
+    - quiero que el piso [5](cantidad) del edificio [edif-2](id) tenga una [mesa](tipo_objeto) con id [mesa-x](nombre_objeto) en la posicion [10.0](posicionX) [20.0](posicionY) [10.0](posicionZ) 
+    - quiero que el edificio [build-2](id) en el piso [5](cantidad) tenga [mesas](tipo_objeto) con id [silla-1](nombre_objeto) en la posicion [10.0](posicionX) [20.0](posicionY) [10.0](posicionZ)
+    - necesito [planta](tipo_objeto) en el piso [5](cantidad) del edificio [build-2](id) con id [planta-Z](nombre_objeto) en la posicion [10.0](posicionX) [20.0](posicionY) [10.0](posicionZ)
+    - quiero que el piso [5](cantidad) del edificio [build-2](id) tenga una [waypoint](tipo_objeto) con id [planta-Z](nombre_objeto) en la posicion [10.0](posicionX) [20.0](posicionY) [10.0](posicionZ)
+
+- intent: agregar_puerta
+  examples: |
+    - quiero crear una puerta en el edificio [edaf-3](id) en el piso [6](cantidad) a [5.0](posicionX) de la pared [Norte](nombre_objeto)
+    - quiero crear una puerta en el piso [6](cantidad) en el edificio [edaf-3](id) a [5.0](posicionX) de la pared [Este](nombre_objeto)
+
+- intent: agregar_ventana
+  examples: |
+    - quiero crear una ventana en el edificio [edaf-3](id) en el piso [6](cantidad) a [5.0](posicionX) de la pared [Norte](nombre_objeto)
+    - quiero crear una ventana en el piso [6](cantidad) en el edificio [edaf-3](id) a [5.0](posicionX) de la pared [Este](nombre_objeto)
+
+- intent: comenzar_guion
+  examples: |
+    - Director, que arranque el guion [Pub_2](id)
+    - Director, carga el guion [Plaza_Calesita_Girando](id)
+
+- intent: informar_datos_objeto #Datos del objeto en el formato correspondiente
+  examples: |
+    - [5,5,0,mesa-1,1; 10,10,90,mesa-2,1; 20,20,270,mesa-3,2](datos_objeto)
+    - [10,10,90,mesa-1,2; 5,5,0,mesa-1,1](datos_objeto)
+    - el objeto es [5,5,0,mesa-1,1](datos_objeto)
+    - objeto: [10,10,90,mesa-1,2](datos_objeto)
+    - objeto: [15,20,180,mesa-1,1](datos_objeto)
+    - objeto: [13,18,270,mesa-1,3](datos_objeto)
+    - objeto: [7,19,45,mesa-1,1](datos_objeto)
+    - el objeto es [10,10,90,mesa-1,2](datos_objeto)
+    - el objeto es [15,20,180,mesa-1,1](datos_objeto)
+    - el objeto es [13,18,270,mesa-1,2](datos_objeto)
+    - el objeto es [7,19,45,mesa-1,1](datos_objeto)
+    - los objetos son [5,5,0,mesa-1,1; 15,20,180,mesa-2,2; 13,18,270,mesa-3,1](datos_objeto)
+    - los objetos son [5,5,0,mesa-1,1; 15,20,180,mesa-2,2; 13,18,270,mesa-3,3; 7,19,45,mesa-4,1; 10,10,90,mesa-5,2](datos_objeto)
+    - [5,5,0,mesa-1,1;15,20,180,mesa-2,1;13,18,270,mesa-3,1;7,19,45,mesa-4,2;10,10,90,mesa-5,1](datos_objeto)
+    - [5,5,0,mesa-1; 15,20,180,mesa-2; 13,18,270,mesa-3](datos_objeto)
+    - [17,23,200,mesa-1;15,20,180,mesa-2;4,7,30,mesa-3;10,19,45,mesa-4;10,10,90,mesa-5](datos_objeto)
+    - [17,23,200,mesa-1; 15,20,180,mesa-2; 4,7,30,mesa-3; 10,19,45,mesa-4; 10,10,90,mesa-5](datos_objeto)
+    - objeto: [17,23,200,mesa-1;15,20,180,mesa-2;4,7,30,mesa-3;10,19,45,mesa-4;10,10,90,mesa-5](datos_objeto)
+    - objeto: [17,23,200,mesa-1; 15,20,180,mesa-2; 4,7,30,mesa-3; 10,19,45,mesa-4; 10,10,90,mesa-5](datos_objeto)
+    - [15,10,130,mesa-1;10,15,130,mesa-2](datos_objeto)
+
+- intent: eliminar_objeto_de_building
+  examples: |
+    - Quiero eliminar el objeto [mesa-1](nombre_objeto) del [primer](orden_building) building
+    - Me gustaria eliminar el objeto [mesa-1](nombre_objeto) del [primer](orden_building) building
+    - Quiero sacar la [mesa-1](nombre_objeto) del [primea](orden_building) building
+    - Quiero sacar el [televisor-1](nombre_objeto) del [segundo](orden_building) building
+
+- regex: cantidad
+  examples: |
+    - \d{1, }
+
+- regex: datos_objeto
+  examples: |
+    - (((\d{1,2},\s*\d{1,2},\s*\d{1,3},\s*^[a-zA-Z0-9_-]*$))+;* *){1,}
+
+- regex: id
+  examples: |
+    - ^[a-zA-Z0-9_-]*$
+
+- regex: nombre_objeto
+  examples: |
+    - ^[a-zA-Z0-9_-]*$
+
+- regex: tamanio_building
+  examples: |
+    - \d{1,2}\s*X\s*\d{1,2}
+    - \d{1,2}\s*x\s*\d{1,2}
+
+- lookup: material
+  examples: |
+    - madera
+    - cork
+    - bloquesconcreto
+    - asfalto
+
+- lookup: tipo_building
+  examples: |
+    - BuildingConstArea
+
+- lookup: tipo_room
+  examples: |
+    - RoomVacio
+    - RoomAbierto
+
+- lookup: tipo_objeto
+  examples: |
+    - mesa
+    - mesas
+    - kanban
+    - kanbans
+    - silla
+    - sillas
+    - televisor
+    - televisores
+    - biblioteca
+    - bibliotecas
+    - estanteria
+    - estanterías
+    - pizarra
+    - pizarras
+    - mesa dividida
+    - computadora
+    - computadoras
+    - proyector
+    - armario vidriado
+    - armario
+    - sillon
+    - sillones
+    - planta
+    - plantas
+    - waypoint
+    - waypoints
+    - botella
+    - botellas
+    - dispenser
+    - dispensers
+    - cantero
+    - canteros
+    - banco
+    - bancos
+    - farol
+    - faroles
+    - techo
+    - puerta
+    - pared
+    - pared interna
+    - pared externa
+    - piso
+    - cuadro
+    - cuadros
+    - escritorio
+    - escritorios
+    - pupitre
+    - pupitres
+    - glorieta
+    - glorietas
+    - banco
+    - bancos
+    - escalera de barras
+    - escalera barra
+    - escalera de barra
+    - escalera barras
+    - escalera con barras
+    - escalera de plaza
+    - piramide
+    - piramides
+    - juegos de plaza
+    - juego de plaza
+    - pasamanos
+    - pasamano
+    - tobogan
+    - toboganes
+    - barra con argollas
+    - barra de argollas
+    - barra con anillas
+    - arenero
+    - areneros
+    - sube y baja
+    - subeybaja
+    - subibajas
+    - subibaja
+    - carrusel con asientos
+    - carrusel
+    - calesita
+    - calesitas
+    - hamaca
+    - hamacas
+    - trepador curvo
+    - trepador
+    - tacho de basura
+    - tachos de basura
+    - basurero
+    - basureros
+    - tacho
+    - tachos    
+
+- lookup: orden_building
+  examples: |
+    - primer
+    - segundo
+    - tercero
+    - cuarto
+    - quinto
+    - sexto
+    - septimo
+    - octavo
+    - noveno
+    - decimo

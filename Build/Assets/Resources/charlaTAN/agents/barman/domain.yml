@@ -1,0 +1,50 @@
+version: "3.1"
+
+intents:
+  - saludo
+  - presentacion
+  - que_haces
+  - pedido
+  - agradecimiento
+  - despedida
+
+actions:
+  - action_saludo
+
+responses:
+
+  utter_no_entendi:
+  - text: "No logré comprenderte"
+
+  utter_saludo:
+  - text: "¡Hola! Bienvenido al bar. ¿Estás buscando algo especial hoy?"
+  - text: "Hola, ¿Listo para disfrutar de nuestras deliciosas bebidas y cócteles?"
+  - text: "¡Buenos días! ¿En qué puedo servirte hoy? Tenemos una amplia selección de bebidas."
+
+  utter_presentacion:
+  - text: "Soy el bartender del lugar, aquí para satisfacer tus deseos de bebida. ¿Tienes alguna preferencia?"
+  - text: "Puedes llamarme el maestro de las mezclas. Estoy aquí para asegurarme de que tengas una experiencia inolvidable con nuestras bebidas."
+  - text: "Me llaman el experto en cócteles. ¿Qué puedo prepararte hoy?"
+
+  utter_que_haces:
+  - text: "Mi trabajo es crear las mejores bebidas para ti. Desde cócteles exquisitos hasta cervezas heladas, estoy listo para complacerte."  
+  - text: "Tengo una amplia experiencia en bartending y puedo preparar una variedad de bebidas. ¿Tienes alguna preferencia en mente?"
+  - text: "Estoy aquí para mezclar las bebidas más deliciosas y servirlas con una sonrisa. ¿Quieres explorar nuestro menú?"
+  
+  utter_pedido:
+  - text: "Una elección sabia. Si despues te interesa tenemos la carta para ir entrando algo."
+
+  utter_agradecimiento:
+  - text: "¡De nada! Estoy aquí para garantizar que tengas una experiencia increíble. Si necesitas algo más, no dudes en decírmelo."
+  - text: "Fue un placer servirte. Siempre estamos aquí para brindarte un excelente servicio. ¡Espero verte pronto!"
+  - text: "Gracias por elegir nuestro bar. Tu satisfacción es nuestra recompensa. ¿Puedo hacer algo más por ti hoy?"
+
+  utter_despedida:
+  - text: "Nos vemos en tu próxima visita. ¡Que tengas un gran día!"
+  - text: "Hasta la próxima. Siempre es un placer atenderte. Cuídate."
+  - text: "¡Adiós! Gracias por pasar un buen rato aquí. Esperamos verte nuevamente pronto."
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

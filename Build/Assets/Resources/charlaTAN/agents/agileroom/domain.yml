@@ -1,0 +1,120 @@
+version: '3.1'
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+  
+intents:
+- crear_building
+- agregar_objeto
+- agregar_puerta
+- agregar_ventana
+- informar_datos_objeto
+- eliminar_objeto_de_building
+- cambiar_material
+- comenzar_guion
+
+entities:
+- tipo_objeto
+- tipo_building
+- tipo_room
+- cantidad
+- tamanio_building
+- datos_objeto
+- orden_building
+- nombre_objeto
+- material
+- posicionX
+- posicionY
+- posicionZ
+- id
+
+slots:
+  tipo_objeto:
+    type: text
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: tipo_objeto
+  tipo_building:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: tipo_building
+  tipo_room:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: tipo_room
+  cantidad:
+    type: float
+    influence_conversation: false
+    max_value: 10.0
+    min_value: 1.0
+    mappings:
+    - type: from_entity
+      entity: cantidad
+  tamanio_building:
+    type: text
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: tamanio_building
+  datos_objeto:
+    type: text
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: datos_objeto
+  orden_building:
+    type: text
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: orden_building
+  nombre_objeto:
+    type: text
+    influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: nombre_objeto
+  material:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: material
+  posicionX:
+    type: float
+    influence_conversation: false
+    max_value: 1000.0
+    min_value: -1000.0
+    mappings:
+      - type: from_entity
+        entity: posicionX
+  posicionY:
+    type: float
+    influence_conversation: false
+    max_value: 1000.0
+    min_value: -1000.0
+    mappings:
+      - type: from_entity
+        entity: posicionY
+  posicionZ:
+    type: float
+    influence_conversation: false
+    max_value: 1000.0
+    min_value: -1000.0
+    mappings:
+      - type: from_entity
+        entity: posicionZ
+  id:
+    type: text
+    influence_conversation: false
+    mappings:
+      - type: from_entity
+        entity: id
+
+actions:
+- get_tracker

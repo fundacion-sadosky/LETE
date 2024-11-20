@@ -1,0 +1,3961 @@
+[
+	{
+		"key": "Accion_Secuencial",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Juicio",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 10.0,
+					"parZ": 14.0,
+					"rotacion": 0.0,
+					"escalaX": -19.22,
+					"escalaY": 0.0,
+					"escalaZ": -10.03
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B5",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.0,
+					"parZ": 12.08,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 10.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B6",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.02,
+					"parZ": 10.08,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 6.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B7",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.07,
+					"parZ": 11.03,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 2.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B8",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 7.97,
+					"parZ": 11.03,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 2.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "smallBarricade",
+					"nombreObjeto": "SB2",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.0,
+					"parZ": 4.5,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "smallBarricade",
+					"nombreObjeto": "SB3",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 4.5,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "smallBarricade",
+					"nombreObjeto": "SB4",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.0,
+					"parZ": 4.5,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "smallBarricade",
+					"nombreObjeto": "SB5",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.5,
+					"parZ": 4.5,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "smallBarricade",
+					"nombreObjeto": "SB6",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 7.5,
+					"parZ": 4.5,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "smallBarricade",
+					"nombreObjeto": "SB7",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.5,
+					"parZ": 4.5,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "smallBarricade",
+					"nombreObjeto": "SB8",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 4.5,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearVentana",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": null,
+					"room": "Juicio",
+					"piso": 0,
+					"pared": "Sur",
+					"parX": 4.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 2.0,
+					"escalaY": 2.5,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "Cork",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Plaza piso 0 cambiar a pasto"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared interna",
+					"nombreObjeto": "Cork",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Plaza piso 0 cambiar a pasto"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "piso",
+					"nombreObjeto": "madera",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Plaza piso 0 cambiar a pasto"
+			}
+		],
+		"description": "Juicio creacion"
+	},
+	{
+		"key": "Accion_Secuencial",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Juicio2",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 6.0,
+					"parZ": 4.0,
+					"rotacion": 0.0,
+					"escalaX": -17.2,
+					"escalaY": 0.25,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B11",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.0,
+					"parZ": 6.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 2.5
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B12",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.05,
+					"parZ": 7.2,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 2.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B13",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.05,
+					"parZ": 4.7,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 2.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B14",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.5,
+					"parZ": 7.2,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 2.5
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B15",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 6.0,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 2.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B16",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 8.5,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 2.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Juicio2",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Juicio0",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 1.0,
+					"parZ": 2.0,
+					"rotacion": 0.0,
+					"escalaX": -19.234,
+					"escalaY": 0.25,
+					"escalaZ": -5.214
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Juicio0",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B1",
+					"room": "Juicio2",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.05,
+					"parZ": 2.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 4.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B2",
+					"room": "Juicio2",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.95,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 2.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B3",
+					"room": "Juicio2",
+					"piso": 0,
+					"pared": null,
+					"parX": 3.0,
+					"parZ": 0.05,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 6.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Juicio3",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 10.0,
+					"parZ": 2.0,
+					"rotacion": 0.0,
+					"escalaX": -19.2,
+					"escalaY": 0.5,
+					"escalaZ": 2.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomAbierto",
+					"nombreObjeto": null,
+					"room": "Juicio3",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "barricade",
+					"nombreObjeto": "B4",
+					"room": "Juicio3",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.98,
+					"parZ": 0.05,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 10.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Juicio4",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 2.0,
+					"parZ": 5.0,
+					"rotacion": 0.0,
+					"escalaX": -19.58,
+					"escalaY": 0.0,
+					"escalaZ": -10.18
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Juicio4",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "Cork",
+					"room": "Juicio4",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Plaza piso 0 cambiar a pasto"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearBuilding",
+					"tipoObjeto": "BuildingConstArea",
+					"nombreObjeto": "Juicio5",
+					"room": null,
+					"piso": 0,
+					"pared": null,
+					"parX": 2.0,
+					"parZ": 3.0,
+					"rotacion": 0.0,
+					"escalaX": -10.81,
+					"escalaY": 0.0,
+					"escalaZ": -10.09
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearRoom",
+					"tipoObjeto": "RoomVacio",
+					"nombreObjeto": null,
+					"room": "Juicio5",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CambiarMaterial",
+					"tipoObjeto": "pared externa",
+					"nombreObjeto": "Cork",
+					"room": "Juicio5",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.0,
+					"parZ": 0.0,
+					"rotacion": 0.0,
+					"escalaX": 0.0,
+					"escalaY": 0.0,
+					"escalaZ": 0.0
+				},
+				"description": "Plaza piso 0 cambiar a pasto"
+			}
+		],
+		"description": "Spawn Sillas"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla1",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.0,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla2",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 7.4,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla3",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.8,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla4",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.2,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla5",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.0,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla6",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 3.4,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla7",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.8,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla8",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.2,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla9",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.0,
+					"parZ": 1.8,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla10",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 7.4,
+					"parZ": 1.8,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla11",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.8,
+					"parZ": 1.8,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla12",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.2,
+					"parZ": 1.8,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla13",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.0,
+					"parZ": 1.8,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla14",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 3.4,
+					"parZ": 1.8,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla15",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.8,
+					"parZ": 1.8,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla16",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.2,
+					"parZ": 1.8,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla17",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.0,
+					"parZ": 2.6,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla18",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 7.4,
+					"parZ": 2.6,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla19",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.8,
+					"parZ": 2.6,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla20",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.2,
+					"parZ": 2.6,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla21",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.0,
+					"parZ": 2.6,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla22",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 3.4,
+					"parZ": 2.6,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla23",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.8,
+					"parZ": 2.6,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla24",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.2,
+					"parZ": 2.6,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla25",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.0,
+					"parZ": 3.4,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla26",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 7.4,
+					"parZ": 3.4,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla27",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.8,
+					"parZ": 3.4,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla28",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.2,
+					"parZ": 3.4,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla29",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.0,
+					"parZ": 3.4,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla30",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 3.4,
+					"parZ": 3.4,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla31",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.8,
+					"parZ": 3.4,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla32",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.2,
+					"parZ": 3.4,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla33",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.6,
+					"parZ": 3.4,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla34",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.2,
+					"parZ": 3.4,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla35",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 6.5,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla36",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.4,
+					"parZ": 5.5,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla37",
+					"room": "Juicio2",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.5,
+					"parZ": 1.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla38",
+					"room": "Juicio2",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.5,
+					"parZ": 1.0,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla39",
+					"room": "Juicio3",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.0,
+					"parZ": 1.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla40",
+					"room": "Juicio3",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.0,
+					"parZ": 1.0,
+					"rotacion": 180.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla41",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.4,
+					"parZ": 6.1,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla42",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 1.4,
+					"parZ": 6.7,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla43",
+					"room": "Juicio0",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.4,
+					"parZ": 0.5,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla44",
+					"room": "Juicio0",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.4,
+					"parZ": 1.1,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla45",
+					"room": "Juicio0",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.4,
+					"parZ": 1.7,
+					"rotacion": 90.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "sillaCocina",
+					"nombreObjeto": "Silla46",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 9.5,
+					"parZ": 8.0,
+					"rotacion": 270.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+		],
+		"description": "Spawn Sillas"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Posicion1",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.0,
+					"parZ": 5.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Posicion2",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 4.5,
+					"parZ": 6.5,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Posicion3",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.3,
+					"parZ": 4.5,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Posicion4",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 0.25,
+					"parZ": 7.5,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Posicion5",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.5,
+					"parZ": 6.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Posicion6",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 2.5,
+					"parZ": 0.5,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Posicion7",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 8.5,
+					"parZ": 6.5,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Posicion8",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 6.0,
+					"parZ": 5.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "Posicion9",
+					"room": "Juicio3",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.0,
+					"parZ": 1.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			},
+			{
+				"key": "Accion_DinamicRoom",
+				"data": {
+					"accion": "CrearObjeto",
+					"tipoObjeto": "waypoint",
+					"nombreObjeto": "PosicionWoo",
+					"room": "Juicio",
+					"piso": 0,
+					"pared": null,
+					"parX": 5.0,
+					"parZ": 7.0,
+					"rotacion": 0.0,
+					"escalaX": 1.0,
+					"escalaY": 1.0,
+					"escalaZ": 1.0
+				},
+				"description": "Acción Dynamic Rooms"
+			}
+		],
+		"description": "Waypoints"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Woo",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"normalized": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0,
+							"normalized": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0,
+								"magnitude": 1.0,
+								"sqrMagnitude": 1.0
+							},
+							"magnitude": 1.0,
+							"sqrMagnitude": 1.0
+						},
+						"magnitude": 1.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Tipo1",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"normalized": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0,
+							"normalized": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0,
+								"magnitude": 1.0,
+								"sqrMagnitude": 1.0
+							},
+							"magnitude": 1.0,
+							"sqrMagnitude": 1.0
+						},
+						"magnitude": 1.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Tipo2",
+					"genero": "man",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"normalized": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0,
+							"normalized": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0,
+								"magnitude": 1.0,
+								"sqrMagnitude": 1.0
+							},
+							"magnitude": 1.0,
+							"sqrMagnitude": 1.0
+						},
+						"magnitude": 1.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Tipa1",
+					"genero": "woman",
+					"posicion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"normalized": {
+							"x": 0.0,
+							"y": 0.0,
+							"z": 0.0,
+							"normalized": {
+								"x": 0.0,
+								"y": 0.0,
+								"z": 0.0,
+								"magnitude": 1.0,
+								"sqrMagnitude": 1.0
+							},
+							"magnitude": 1.0,
+							"sqrMagnitude": 1.0
+						},
+						"magnitude": 1.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Camarografo",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 1.73205078,
+						"sqrMagnitude": 3.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Juan",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Madre",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Hombre1",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Hombre2",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Hombre4",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Hombre3",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Mujer1",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Mujer2",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Mujer3",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Mujer4",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Laura",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Julian",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Benja",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Agustin",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Belen",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Mateo",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Tobias",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Virginia",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Anastasia",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Emma",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Leo",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Daniel",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Valeria",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Alejandro",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Manuel",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Hugo",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Martina",
+					"genero": "woman",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Huang",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Nico",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			},
+			{
+				"key": "Accion_SpawnAvatar",
+				"data": {
+					"avatar": "Marta",
+					"genero": "man",
+					"posicion": {
+						"x": -1.0,
+						"y": 0.0,
+						"z": 14.0
+					},
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"escala": {
+						"x": 1.0,
+						"y": 1.0,
+						"z": 1.0
+					},
+					"agilebot": null
+				},
+				"description": "Acción Spawn Avatar"
+			}
+		],
+		"description": "Spawn Avatares"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Juan",
+					"objeto": "Silla1",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Tipo1",
+					"objeto": "Silla44",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Tipo2",
+					"objeto": "Silla45",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Tipa1",
+					"objeto": "Silla41",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Madre",
+					"objeto": "Silla2",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Hombre2",
+					"objeto": "Silla6",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Hombre4",
+					"objeto": "Silla7",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Mujer1",
+					"objeto": "Silla10",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Mujer2",
+					"objeto": "Silla11",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Mujer3",
+					"objeto": "Silla12",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Mujer4",
+					"objeto": "Silla14",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Laura",
+					"objeto": "Silla16",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Julian",
+					"objeto": "Silla17",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Benja",
+					"objeto": "Silla18",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Agustin",
+					"objeto": "Silla19",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Belen",
+					"objeto": "Silla20",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Mateo",
+					"objeto": "Silla21",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Tobias",
+					"objeto": "Silla22",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Virginia",
+					"objeto": "Silla23",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Anastasia",
+					"objeto": "Silla24",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Leo",
+					"objeto": "Silla33",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Emma",
+					"objeto": "Silla25",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Nico",
+					"objeto": "Silla28",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Daniel",
+					"objeto": "Silla29",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Huang",
+					"objeto": "Silla30",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Alejandro",
+					"objeto": "Silla31",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Manuel",
+					"objeto": "Silla32",
+					"rotacion": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Valeria",
+					"objeto": "Silla36",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Marta",
+					"objeto": "Silla35",
+					"rotacion": {
+						"x": 0.0,
+						"y": 270.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Hugo",
+					"objeto": "Silla37",
+					"rotacion": {
+						"x": 0.0,
+						"y": 270.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Martina",
+					"objeto": "Silla38",
+					"rotacion": {
+						"x": 0.0,
+						"y": 90.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Hombre1",
+					"objeto": "Silla39",
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			},
+			{
+				"key": "Accion_Sentarse",
+				"data": {
+					"avatar": "Hombre3",
+					"objeto": "Silla40",
+					"rotacion": {
+						"x": 0.0,
+						"y": 180.0,
+						"z": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Sentarse"
+			}
+		],
+		"description": "Sentando a los actores secundarios"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Woo",
+					"accion": "MoverYRotar",
+					"ubicacionMover": "PosicionWoo",
+					"ubicacionRotar": "Silla5"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Agarrar",
+				"data": {
+					"avatar": "Woo",
+					"objeto": "Carta_Menu",
+					"parteDelCuerpo": "ManoIzquierda",
+					"offset": {
+						"x": 0.0,
+						"y": -0.05,
+						"z": 0.1,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"escala": {
+						"x": 0.3,
+						"y": 0.3,
+						"z": 0.3,
+						"normalized": {
+							"x": 0.577350259,
+							"y": 0.577350259,
+							"z": 0.577350259,
+							"magnitude": 1.0,
+							"sqrMagnitude": 0.99999994
+						},
+						"magnitude": 0.6062178,
+						"sqrMagnitude": 0.367499977
+					},
+					"rotacion": {
+						"x": 25.0,
+						"y": 0.0,
+						"z": 0.0,
+						"magnitude": 0.0,
+						"sqrMagnitude": 0.0
+					},
+					"modo": 0
+				},
+				"description": "Acción Agarrar"
+			},
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Woo",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion1",
+					"ubicacionRotar": "Woo"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Woo",
+					"animacion": "Full_Hablar_Libreta",
+					"loopear": false,
+					"loops": 2,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación Hablar con libreta"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Woo",
+							"texto": "Antes de comenzar mi apertura,",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Esperar",
+						"data": {
+							"tiempo": 0.5
+						},
+						"description": "Acción Esperar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Woo",
+							"texto": "Les pido a todos su comprension.",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Primer dialogo"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Woo",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion2",
+					"ubicacionRotar": "Woo"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Woo",
+					"animacion": "Full_Hablar_Libreta",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación Hablar con libreta"
+			},
+			{
+				"key": "Accion_Hablar",
+				"data": {
+					"avatar": "Woo",
+					"texto": "Yo..",
+					"genero": "Mujer",
+					"modo": 0
+				},
+				"description": "Acción Hablar"
+			},
+			{
+				"key": "Accion_Hablar",
+				"data": {
+					"avatar": "Woo",
+					"texto": "T..",
+					"genero": "Mujer",
+					"modo": 0
+				},
+				"description": "Acción Hablar"
+			}
+		],
+		"description": "Segundo dialogo"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Woo",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion2",
+					"ubicacionRotar": "Woo"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Woo",
+					"animacion": "Full_Hablar_Libreta",
+					"loopear": false,
+					"loops": 2,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación Hablar con libreta"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Woo",
+							"texto": "Tengo trastorno del espectro au...",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Esperar",
+						"data": {
+							"tiempo": 0.5
+						},
+						"description": "Acción Esperar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Woo",
+							"texto": "Autista",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Tercer dialogo"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion3",
+					"ubicacionRotar": "Huang"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Huang",
+					"condicion": "Accion_ReproducirAnimacion",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_ReproducirAnimacion",
+						"data": {
+							"avatar": "Huang",
+							"animacion": "mira_costado_derecha",
+							"loopear": false,
+							"loops": 0,
+							"lock": false,
+							"aceleracion": 1.0,
+							"enlazar": false,
+							"modo": 0
+						},
+						"description": "Acción Animación Hablar con libreta 2"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Woo",
+							"texto": "Asi que para ustedes,",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Woo",
+							"texto": "Mi discurso y mis acciones pueden parecerles torpes.",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Cuarto dialogo"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Huang",
+					"animacion": "Legs_Neutral_Sentado",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": true,
+					"modo": 0
+				},
+				"description": "Acción Sentado"
+			},
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Woo",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion4",
+					"ubicacionRotar": "Woo"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Woo",
+					"animacion": "Full_Hablar_Libreta2",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación Hablar con libreta 2"
+			},
+			{
+				"key": "Accion_Hablar",
+				"data": {
+					"avatar": "Woo",
+					"texto": "Sin embargo, siempre he amado la ley.",
+					"genero": "Mujer",
+					"modo": 0
+				},
+				"description": "Acción Hablar"
+			}
+		],
+		"description": "Quinto dialogo"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Woo",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Woo",
+					"animacion": "Torso_Neutral_MirarAlrededor",
+					"loopear": false,
+					"loops": 2,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación Hablar"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_Posicionar",
+						"data": {
+							"avatar": "Camarografo",
+							"accion": "MoveryRotar",
+							"ubicacionMover": "Posicion2",
+							"ubicacionRotar": "Woo"
+						},
+						"description": "Acción Posicionar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Woo",
+							"texto": "Y mi respeto hacia la acusada, no es diferente",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Posicionar",
+						"data": {
+							"avatar": "Camarografo",
+							"accion": "MoveryRotar",
+							"ubicacionMover": "Posicion5",
+							"ubicacionRotar": "Silla41"
+						},
+						"description": "Acción Posicionar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Woo",
+							"texto": "al de cualquier otro abogado competente.",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Sexto dialogo"
+	},
+	{
+		"key": "Accion_Esperar",
+		"data": {
+			"tiempo": 3.0
+		},
+		"description": "Acción Esperar"
+	},
+	{
+		"key": "Accion_Posicionar",
+		"data": {
+			"avatar": "Camarografo",
+			"accion": "MoveryRotar",
+			"ubicacionMover": "Posicion2",
+			"ubicacionRotar": "Woo"
+		},
+		"description": "Acción Posicionar"
+	},
+	{
+		"key": "Accion_Esperar",
+		"data": {
+			"tiempo": 3.0
+		},
+		"description": "Acción Esperar"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Woo",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion2",
+					"ubicacionRotar": "Woo"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Woo",
+					"animacion": "Full_Hablar_Libreta",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación Hablar con libreta"
+			},
+			{
+				"key": "Accion_Secuencial",
+				"data": [
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Woo",
+							"texto": "Como abogada que soy,",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					},
+					{
+						"key": "Accion_Hablar",
+						"data": {
+							"avatar": "Woo",
+							"texto": "haré todo lo posible..",
+							"genero": "Mujer",
+							"modo": 0
+						},
+						"description": "Acción Hablar"
+					}
+				],
+				"description": "Acción Secuencial"
+			}
+		],
+		"description": "Septimo dialogo"
+	},
+	{
+		"key": "Accion_Esperar",
+		"data": {
+			"tiempo": 3.0
+		},
+		"description": "Acción Esperar"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Seguimiento",
+				"data": {
+					"avatar": "Camarografo",
+					"objetivo": "Woo",
+					"condicion": "Accion_Hablar",
+					"modo": 1
+				},
+				"description": "Acción Seguimiento"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion6",
+					"ubicacionRotar": "Woo"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_Hablar",
+				"data": {
+					"avatar": "Woo",
+					"texto": "Para ayudar a la acusada a esclarecer la verdad de este incidente.",
+					"genero": "Mujer",
+					"modo": 0
+				},
+				"description": "Acción Hablar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Woo",
+					"animacion": "Reverencia",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación Reverencia"
+			}
+		],
+		"description": "Octavo dialogo"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion3",
+					"ubicacionRotar": "Huang"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Huang",
+					"animacion": "mira_costado_derecha",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Animacion"
+			}
+		],
+		"description": "Camara mirando a Huang"
+	},
+	{
+		"key": "Accion_Esperar",
+		"data": {
+			"tiempo": 1.0
+		},
+		"description": "Acción Esperar"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Huang",
+					"animacion": "Legs_Neutral_Sentado",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": true,
+					"modo": 0
+				},
+				"description": "Acción Sentado"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion7",
+					"ubicacionRotar": "Marta"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Marta",
+					"animacion": "mira_costado_derecha",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Animacion"
+			}
+		],
+		"description": "Camara mirando a Marta"
+	},
+	{
+		"key": "Accion_Esperar",
+		"data": {
+			"tiempo": 1.0
+		},
+		"description": "Acción Esperar"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Marta",
+					"animacion": "Legs_Neutral_Sentado",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": true,
+					"modo": 0
+				},
+				"description": "Acción Sentado"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion8",
+					"ubicacionRotar": "Nico"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Nico",
+					"animacion": "mira_costado_derecha",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Animacion"
+			}
+		],
+		"description": "Camara mirando a Nico"
+	},
+	{
+		"key": "Accion_Esperar",
+		"data": {
+			"tiempo": 1.0
+		},
+		"description": "Acción Esperar"
+	},
+	{
+		"key": "Accion_Conjunta",
+		"data": [
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Nico",
+					"animacion": "Legs_Neutral_Sentado",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": true,
+					"modo": 0
+				},
+				"description": "Acción Sentado"
+			},
+			{
+				"key": "Accion_Posicionar",
+				"data": {
+					"avatar": "Camarografo",
+					"accion": "MoveryRotar",
+					"ubicacionMover": "Posicion9",
+					"ubicacionRotar": "Woo"
+				},
+				"description": "Acción Posicionar"
+			},
+			{
+				"key": "Accion_ReproducirAnimacion",
+				"data": {
+					"avatar": "Agustin",
+					"animacion": "Piernas_Pararse2",
+					"loopear": false,
+					"loops": 0,
+					"lock": false,
+					"aceleracion": 1.0,
+					"enlazar": false,
+					"modo": 0
+				},
+				"description": "Acción Animación"
+			}
+		],
+		"description": "Camara mirando a todos"
+	}
+]

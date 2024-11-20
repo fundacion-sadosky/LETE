@@ -1,0 +1,144 @@
+version: "3.1"
+
+nlu:
+- intent: saludo
+  examples: |
+    - hola
+    - que tal
+    - holis
+    - hello
+    - buenos dias
+    - buenas tardes
+    - ¡Hola!
+    - Hola!
+    - Hola, ¿que tal?
+    - Hola ¿que tal?
+    - Hola, que tal?
+    - Hola que tal
+    - Buenas tardes
+    - ¿Como estas?
+    - Como estas?
+    - Como estas
+    - Saludos
+    - Hey, ¿que hay de nuevo?
+    - Hey, que hay de nuevo?
+    - ¿que hay de nuevo?
+    - que hay de nuevo?
+    - Hola, ¿que tal estás hoy?
+    - Hola, que tal estás hoy?
+    - Buen dia
+    - ¿Como te va?
+    - Como te va?
+    - ¡Hey!
+    - Hey!
+    - Buenos dias, bartender
+    - Buenos dias bartender
+
+- intent: presentacion
+  examples: |
+    - ¿Quien eres?
+    - Quien eres?
+    - ¿Como te llamas?
+    - Como te llamas?
+    - ¿Cual es tu nombre?
+    - Cual es tu nombre?
+    - ¿Eres el bartender?
+    - Eres el bartender?
+    - ¿Puedes presentarte?
+    - Puedes presentarte?
+    - ¿Quien está detras de la barra?
+    - Quien está detras de la barra?
+    - ¿Eres el encargado de las bebidas?
+    - Eres el encargado de las bebidas?
+    - ¿Puedes decirme quien eres?
+    - Puedes decirme quien eres?
+    - ¿Como te describirias?
+    - Como te describirias?
+    - ¿Eres el experto en cocteles?
+    - Eres el experto en cocteles?
+    - ¿Quien trabaja en el bar?
+    - Quien trabaja en el bar?
+    - ¿Puedes hablarme de ti?
+    - Puedes hablarme de ti?
+
+- intent: que_haces
+  examples: |
+    - ¿Que haces aqui?
+    - Que haces aqui?
+    - ¿Cual es tu trabajo?
+    - Cual es tu trabajo?
+    - ¿Cuales son tus habilidades?
+    - Cuales son tus habilidades?
+    - ¿Cual es tu especialidad?
+    - Cual es tu especialidad?
+    - ¿Que tipos de bebidas puedes preparar?
+    - Que tipos de bebidas puedes preparar?
+    - ¿Tienes alguna recomendacion?
+    - Tienes alguna recomendacion?
+    - Explicame tu función aquí
+    - ¿Cual es tu especialidad?
+    - Cual es tu especialidad?
+    - ¿Que bebidas sabes preparar?
+    - Que bebidas sabes preparar?
+    - ¿Como haces los cócteles?
+    - Como haces los cócteles?
+    - ¿Eres bueno mezclando bebidas?
+    - Eres bueno mezclando bebidas?
+    - ¿Tienes experiencia en bartending?
+    - Tienes experiencia en bartending?
+    - Tenes experiencia en bartending?
+
+- intent: pedido
+  examples: |
+    - Me gustaria ordenar una cerveza
+    - ¿Puedes preparar un coctel de piña colada?
+    - Puedes preparar un coctel de piña colada?
+    - Quiero un bebida de cola
+    - ¿Tienes alguna bebida especial?
+    - Tienes alguna bebida especial?
+    - ¿Cuál es tu recomendación del dia?
+    - Cuál es tu recomendación del dia?
+    - Por favor, una botella de vino tinto
+    - Un whisky, por favor
+    - ¿Me pones una margarita?
+    - Me pones una margarita?
+    - Deseo una cerveza fria
+    - ¿Que vino tinto tienes?
+    - Que vino tinto tienes?
+    - ¿Puedes preparar un mojito?
+    - Puedes preparar un mojito?
+    - Estoy buscando algo sin alcohol
+
+- intent: agradecimiento
+  examples: |
+    - Gracias por la bebida
+    - ¡Estaba delicioso!
+    - Estaba delicioso!
+    - Excelente servicio, gracias
+    - Te agradezco por tu ayuda
+    - ¡Hiciste un gran trabajo!
+    - Hiciste un gran trabajo!
+    - Gracias, bartender
+    - Gracias por la excelente atencion
+    - Estaba delicioso, gracias
+    - Te lo agradezco mucho
+    - Buen trabajo, gracias
+    - Que servicio tan amable!
+    - Valio la pena, gracias
+
+- intent: despedida
+  examples: |
+    - Adios
+    - Nos vemos mas tarde
+    - Hasta pronto
+    - Fue un placer, adios
+    - Cuidate
+    - ¡Hasta la proxima!
+    - Hasta la proxima!
+    - Hasta la proxima
+    - Nos vemos mas tarde
+    - Hasta la proxima visita
+    - Disfrutamos, adios
+    - Cuidate, bartender
+    - Regresaremos pronto
+    - ¡Hasta luego!

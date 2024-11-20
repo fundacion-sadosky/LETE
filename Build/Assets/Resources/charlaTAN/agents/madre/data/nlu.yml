@@ -1,0 +1,75 @@
+version: "3.1"
+
+nlu:
+- intent: saludo
+  examples: |
+    - hola
+    - que tal
+    - holis
+    - hello
+    - buenos dias
+    - buenas tardes
+    - ¡Hola!
+    - Hola!
+    - Hola, ¿que tal?
+    - Hola ¿que tal?
+    - Hola, que tal?
+    - Hola que tal
+    - Buenas tardes
+    - ¿Como estas?
+    - Como estas?
+    - Como estas
+    - Saludos
+    - Hey, ¿que hay de nuevo?
+    - Hey, que hay de nuevo?
+    - ¿que hay de nuevo?
+    - que hay de nuevo?
+    - Hola, ¿que tal estás hoy?
+    - Hola, que tal estás hoy?
+    - Buen dia
+    - ¿Como te va?
+    - Como te va?
+    - ¡Hey!
+    - Hey!
+
+- intent: presentacion_madre
+  examples: |
+    - ¿Quién eres?
+    - ¿Cómo te llamas?
+    - ¿Eres su mamá?
+    - Explícame tu papel
+    - Háblame de ti
+
+- intent: actividades_madre
+  examples: |
+    - ¿Qué vamos a hacer ahora?
+    - ¿Cuál es el plan?
+    - ¿Qué juegos hay aquí?
+    - Explícame qué podemos hacer
+    - ¿Hay alguna actividad divertida?
+
+- intent: anticipacion_madre
+  examples: |
+    - ¿Puedo ir a la calesita?
+    - ¿Podremos subir a la calesita?
+    - ¿Cuándo podremos montarnos?
+    - ¿La calesita estará abierta?
+    - ¿Es hora de la calesita?
+    - ¿Qué pasa con la calesita?
+
+- intent: despedida
+  examples: |
+    - Adios
+    - Nos vemos mas tarde
+    - Hasta pronto
+    - Fue un placer, adios
+    - Cuidate
+    - ¡Hasta la proxima!
+    - Hasta la proxima!
+    - Hasta la proxima
+    - Nos vemos mas tarde
+    - Hasta la proxima visita
+    - Disfrutamos, adios
+    - Cuidate, bartender
+    - Regresaremos pronto
+    - ¡Hasta luego!
